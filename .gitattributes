@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Payloads are binary and are hashed by the launcher — git must never touch a
+# byte of them. `text=auto` would normally leave them alone (it sniffs for NUL
+# bytes and these are zips), but "normally" is not good enough here: a single
+# CRLF substitution changes the SHA-256 the manifest pins, and every player
+# would get "the download did not match its published checksum" instead of an
+# addon. Being explicit costs one line.
+*.zip binary
+
+# The manifest is served verbatim to the launcher. Keep it LF wherever it is
+# checked out so its bytes never depend on who published it.
+content.json text eol=lf
