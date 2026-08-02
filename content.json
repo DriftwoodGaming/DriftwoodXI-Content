@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.02",
-  "publishedAt": "2026-08-02T21:18:51.635Z",
+  "publishedAt": "2026-08-02T22:18:04.100Z",
   "packages": [
     {
       "id": "dwbags",
@@ -16,12 +16,12 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-4d64c6ce593e.zip",
-      "sha256": "5436ce6a5b0ea2406987108c71e28b5a5dd9f26a7e1aef8be16413f6eb055418",
-      "size": 167591,
-      "treeHash": "4d64c6ce593ec73afdadec46351bb8229eb5fda15cbe163e4bee659f5c2cc5b4",
-      "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks your bags, and a skill-up ladder that knows what a point costs."
+      "version": "1.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-b807b7602ad6.zip",
+      "sha256": "46f2ed2e37f47b46207d467830ce0f27e0648156c2193944b2a748e34f3a0922",
+      "size": 172980,
+      "treeHash": "b807b7602ad6139d3efc170d1274b0031efa05c50a0f4d3e75ccbf32bc3f089a",
+      "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks your bags, a skill-up ladder that knows what a point costs, and a session tally."
     },
     {
       "id": "dwgambits",
@@ -76,11 +76,11 @@
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-42697957e822.zip",
-      "sha256": "9384f082233ead52de041e432c560fe004d862ba4e4b4a296b80345d54a05f1e",
-      "size": 18835,
-      "treeHash": "42697957e822572b61f2719a6dae459a58be4d8e4ac6d738d04efb15b4386622",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-a3d8ec062507.zip",
+      "sha256": "02cf20b46dee1f31e9e320e2e5864ac107dfca42b1afdac9508fa44499e083e3",
+      "size": 18843,
+      "treeHash": "a3d8ec06250790cde4c9e34bc6707c538e9e4f007071e9bb332c6180479855aa",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
