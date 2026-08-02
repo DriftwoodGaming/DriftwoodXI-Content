@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.07.31",
-  "publishedAt": "2026-07-31T14:38:56.282Z",
+  "contentVersion": "2026.08.02",
+  "publishedAt": "2026-08-02T16:41:44.616Z",
   "packages": [
     {
       "id": "dwbags",
@@ -62,6 +62,16 @@
       "size": 20213,
       "treeHash": "371c05f516f73ed7db77b23b193d918b955cf6a86a76900c1c5a1d983a0459a6",
       "summary": "Damage and healing parser for DriftwoodXI. /parse or /dwparse."
+    },
+    {
+      "id": "dwport",
+      "kind": "ashita-addon",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-42697957e822.zip",
+      "sha256": "9384f082233ead52de041e432c560fe004d862ba4e4b4a296b80345d54a05f1e",
+      "size": 18835,
+      "treeHash": "42697957e822572b61f2719a6dae459a58be4d8e4ac6d738d04efb15b4386622",
+      "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
       "id": "dwreport",
