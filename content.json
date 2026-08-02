@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.02",
-  "publishedAt": "2026-08-02T16:41:44.616Z",
+  "publishedAt": "2026-08-02T19:05:28.584Z",
   "packages": [
     {
       "id": "dwbags",
@@ -12,6 +12,16 @@
       "size": 26992,
       "treeHash": "18a19866cd610cf0d183fe6a06b745c11b09e2ad76ec1931c41d7459fb6cc4b9",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
+    },
+    {
+      "id": "dwcraft",
+      "kind": "ashita-addon",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-dbd94bca3694.zip",
+      "sha256": "5ca19fdf08764a27be6968847398b44d9ca3db781cab0ac40dfebcf2c5324bdf",
+      "size": 14065,
+      "treeHash": "dbd94bca36949cfa1a55d981d92f4ca2da80bc794aadc7813246e8bda6f3266e",
+      "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, and the specialization budget."
     },
     {
       "id": "dwgambits",
