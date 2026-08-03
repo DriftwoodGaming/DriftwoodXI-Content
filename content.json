@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.03",
-  "publishedAt": "2026-08-03T17:03:30.416Z",
+  "publishedAt": "2026-08-03T18:16:59.171Z",
   "packages": [
     {
       "id": "dwbags",
@@ -26,11 +26,11 @@
     {
       "id": "dwengage",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwengage-26f7b5b8b650.zip",
-      "sha256": "0d151dc3c7e1148659df9df31f54b867d9f1fc196b3cae9609259260f5e90d75",
-      "size": 3902,
-      "treeHash": "26f7b5b8b6507758e9b3bba6ea96c4cb70b4ec2b9162fda680c352141b08b2ca",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwengage-2215a4e99683.zip",
+      "sha256": "13947a3f2aba5343937fafd06d1530c778cd4220820fa018c3cbc90ddd522aad",
+      "size": 4109,
+      "treeHash": "2215a4e99683d39d7f437f1fb882a89595be473d2dfb0def217e6b234e2767e5",
       "summary": "Turns you onto the next enemy your party is fighting when your target dies."
     },
     {
