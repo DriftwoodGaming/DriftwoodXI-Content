@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.03",
-  "publishedAt": "2026-08-03T15:31:18.728Z",
+  "publishedAt": "2026-08-03T17:03:30.416Z",
   "packages": [
     {
       "id": "dwbags",
@@ -22,6 +22,16 @@
       "size": 179724,
       "treeHash": "1542e51e27c458a53d14c51c7739c4f7fb0a28ce2bd1f8ea15e868e29d053560",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
+    },
+    {
+      "id": "dwengage",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwengage-26f7b5b8b650.zip",
+      "sha256": "0d151dc3c7e1148659df9df31f54b867d9f1fc196b3cae9609259260f5e90d75",
+      "size": 3902,
+      "treeHash": "26f7b5b8b6507758e9b3bba6ea96c4cb70b4ec2b9162fda680c352141b08b2ca",
+      "summary": "Turns you onto the next enemy your party is fighting when your target dies."
     },
     {
       "id": "dwgambits",
