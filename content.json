@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.03",
-  "publishedAt": "2026-08-03T18:16:59.171Z",
+  "contentVersion": "2026.08.04",
+  "publishedAt": "2026-08-04T18:50:45.161Z",
   "packages": [
     {
       "id": "dwbags",
@@ -32,6 +32,16 @@
       "size": 4109,
       "treeHash": "2215a4e99683d39d7f437f1fb882a89595be473d2dfb0def217e6b234e2767e5",
       "summary": "Turns you onto the next enemy your party is fighting when your target dies."
+    },
+    {
+      "id": "dwfame",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-bef7db1f642d.zip",
+      "sha256": "faf7cc29a6dc0eb14bc28befe0b62ec825cd050dd21c36eac64a3d157f2d4856",
+      "size": 18440,
+      "treeHash": "bef7db1f642d4de5ce799498962d2a9bfe62caf9bbaf8e70b4caca5e7be6302d",
+      "summary": "Fame ledger for DriftwoodXI: every fame area as a bar, with a guide."
     },
     {
       "id": "dwgambits",
