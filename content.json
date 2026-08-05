@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.05",
-  "publishedAt": "2026-08-05T05:44:18.598Z",
+  "publishedAt": "2026-08-05T14:39:03.374Z",
   "packages": [
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.9.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-a2388ee8f8b2.zip",
-      "sha256": "5dc14bf0bcb5ecc559c57a9197b0bd4fdf687795795b34946a736195f3c3bace",
-      "size": 27438,
-      "treeHash": "a2388ee8f8b2c8beafd68604909dffc35dd4041738a25e22f60b6eb3e23b6f93",
+      "version": "1.9.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-4833355a6014.zip",
+      "sha256": "67b1546cc226765c3d33393abdc55b92fb26ca15098bdf2e7ee8e38bc8b7fd37",
+      "size": 27750,
+      "treeHash": "4833355a60145a70de783cb535027cca2216559b745133af81fdca1bce182b9b",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
