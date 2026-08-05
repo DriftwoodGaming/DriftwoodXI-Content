@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.05",
-  "publishedAt": "2026-08-05T16:18:17.514Z",
+  "publishedAt": "2026-08-05T17:31:39.824Z",
   "packages": [
     {
       "id": "dwbags",
@@ -36,11 +36,11 @@
     {
       "id": "dwfame",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-bef7db1f642d.zip",
-      "sha256": "faf7cc29a6dc0eb14bc28befe0b62ec825cd050dd21c36eac64a3d157f2d4856",
-      "size": 18440,
-      "treeHash": "bef7db1f642d4de5ce799498962d2a9bfe62caf9bbaf8e70b4caca5e7be6302d",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-e8227881d760.zip",
+      "sha256": "3c95409f099f8e3c99c110a8afe3d1ffafbf31425a55a53792465ec564595b59",
+      "size": 22409,
+      "treeHash": "e8227881d760e072b5c84c36a860796825807ceac2ffbc11cba09845eb9dd867",
       "summary": "Fame ledger for DriftwoodXI: every fame area as a bar, with a guide."
     },
     {
