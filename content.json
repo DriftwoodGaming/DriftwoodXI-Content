@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.06",
-  "publishedAt": "2026-08-06T05:03:32.500Z",
+  "publishedAt": "2026-08-06T15:30:21.077Z",
   "packages": [
     {
       "id": "dwbags",
@@ -106,12 +106,12 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-79c21f92090f.zip",
-      "sha256": "b8582671ac91824ec5dd1e0881779a38afcefc9321911d58ef85d45bea4dd9c0",
-      "size": 16476,
-      "treeHash": "79c21f92090f4e4044bd08a78dd7047d05f9f6c933d6bc2211a22c1fa8e66637",
-      "summary": "The Drift Board for DriftwoodXI -- daily and weekly contracts, live progress, Drift Coins."
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-999065afca48.zip",
+      "sha256": "fd579dcd189dada82676e214d3a838acffc5934511f757fa1e1ee255f8985c84",
+      "size": 23870,
+      "treeHash": "999065afca48138dc1fa9c4ca40c72ef26be7a30cb54cbe14ef3613d44e31409",
+      "summary": "The Drift Board for DriftwoodXI -- daily and weekly contracts, live progress, Drift Coins, and the augment Exchange."
     },
     {
       "id": "dwreport",
