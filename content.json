@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.05",
-  "publishedAt": "2026-08-05T17:31:39.824Z",
+  "contentVersion": "2026.08.06",
+  "publishedAt": "2026-08-06T03:25:07.780Z",
   "packages": [
     {
       "id": "dwbags",
@@ -102,6 +102,16 @@
       "size": 19009,
       "treeHash": "c855598ba515338387f9a2476646ca4aaf0e962fe551a90160a3bafde5194f3b",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
+    },
+    {
+      "id": "dwquest",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-79c21f92090f.zip",
+      "sha256": "68c4787e4f9bf48ca6de38415de45e9386e127bbf18f38c938a149dc3ea233a7",
+      "size": 16476,
+      "treeHash": "79c21f92090f4e4044bd08a78dd7047d05f9f6c933d6bc2211a22c1fa8e66637",
+      "summary": "The Drift Board for DriftwoodXI -- daily and weekly contracts, live progress, Drift Coins."
     },
     {
       "id": "dwreport",
