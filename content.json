@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.06",
-  "publishedAt": "2026-08-06T17:34:41.449Z",
+  "publishedAt": "2026-08-06T19:36:03.893Z",
   "packages": [
     {
       "id": "dwbags",
@@ -46,11 +46,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-7a0bf145b28d.zip",
-      "sha256": "1349197e1bd9f4ed843c89366acb15fb1b1273061e52784dd515e1b332ba908b",
-      "size": 36433,
-      "treeHash": "7a0bf145b28d9ee35c6f42e43dd2c5d00b12d7b00d23ed7315fc510924c93b64",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-563d922a7ca1.zip",
+      "sha256": "4ec1cf25b2d61f39ce0b8bf25a3419c707c4fd2a27c100d384f0ddc3cf892c30",
+      "size": 38695,
+      "treeHash": "563d922a7ca12e906cdd6a86a678f5cd439c8acfd9022b6a84e23222352acb52",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
