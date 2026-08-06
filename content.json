@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.06",
-  "publishedAt": "2026-08-06T03:25:07.780Z",
+  "publishedAt": "2026-08-06T05:03:32.500Z",
   "packages": [
     {
       "id": "dwbags",
@@ -108,7 +108,7 @@
       "kind": "ashita-addon",
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-79c21f92090f.zip",
-      "sha256": "68c4787e4f9bf48ca6de38415de45e9386e127bbf18f38c938a149dc3ea233a7",
+      "sha256": "b8582671ac91824ec5dd1e0881779a38afcefc9321911d58ef85d45bea4dd9c0",
       "size": 16476,
       "treeHash": "79c21f92090f4e4044bd08a78dd7047d05f9f6c933d6bc2211a22c1fa8e66637",
       "summary": "The Drift Board for DriftwoodXI -- daily and weekly contracts, live progress, Drift Coins."
