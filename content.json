@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.07",
-  "publishedAt": "2026-08-07T05:33:17.683Z",
+  "publishedAt": "2026-08-07T21:24:59.896Z",
   "packages": [
     {
       "id": "dwbags",
@@ -12,6 +12,16 @@
       "size": 29114,
       "treeHash": "f25573bcf718e7a29f212c4c41a86121bd605634bb35de3dd7e54e1abc9ad1c4",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
+    },
+    {
+      "id": "dwcon",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-d385d01a9638.zip",
+      "sha256": "9f5ea7576e73014511d7937014c9079a899c7c66df7019b91b57e87e3409d3e6",
+      "size": 17800,
+      "treeHash": "d385d01a963877156596fa5f96c738f3a5fbfb6968a792e9aeffa0a02d141425",
+      "summary": "Con pearls: every nearby enemy\\"
     },
     {
       "id": "dwcraft",
