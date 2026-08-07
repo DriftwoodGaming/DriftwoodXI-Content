@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.06",
-  "publishedAt": "2026-08-06T22:46:09.181Z",
+  "contentVersion": "2026.08.07",
+  "publishedAt": "2026-08-07T01:55:22.379Z",
   "packages": [
     {
       "id": "dwbags",
@@ -56,11 +56,11 @@
     {
       "id": "dwjobs",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwjobs-fe05acbe9632.zip",
-      "sha256": "c01ef966d668748f6ce9c55deb967133c0f8843a6649541ba258f3f8d433532a",
-      "size": 16396,
-      "treeHash": "fe05acbe9632226a5d9ed66994bf2b5199e79556bf61893d677b7fbad89319f3",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwjobs-f6d06b2e93bd.zip",
+      "sha256": "a48a8246710ef0789c9b93f91f969aa2098a1453b08cbbc326754ce985630f5d",
+      "size": 16939,
+      "treeHash": "f6d06b2e93bd728da4a15c0a473b1b02b9e671f0f9889540b661ead653258e92",
       "summary": "Party job window for DriftwoodXI -- change everyone\\"
     },
     {
