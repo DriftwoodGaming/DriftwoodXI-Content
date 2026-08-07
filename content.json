@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.07",
-  "publishedAt": "2026-08-07T03:28:02.545Z",
+  "publishedAt": "2026-08-07T05:33:17.683Z",
   "packages": [
     {
       "id": "dwbags",
@@ -142,6 +142,16 @@
       "size": 112171,
       "treeHash": "56f8d7df52284bc32813d30587b57594a6e92eddc8ee3bd793e1617173da19cc",
       "summary": "In-game quest and mission tracker for DriftwoodXI."
+    },
+    {
+      "id": "dwwarehouse",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-2c5644949148.zip",
+      "sha256": "fae315be4ffb488115fdec6b6c2b93b38eae78f8b3c87e9d17e34ba02aa0ba38",
+      "size": 25963,
+      "treeHash": "2c56449491489c290c09338e4ba540beb8b590d2cf7dcce601fe1cb92fa60d8f",
+      "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
 }
