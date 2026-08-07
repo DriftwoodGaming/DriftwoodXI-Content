@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.07",
-  "publishedAt": "2026-08-07T01:55:22.379Z",
+  "publishedAt": "2026-08-07T02:55:00.985Z",
   "packages": [
     {
       "id": "dwbags",
@@ -66,11 +66,11 @@
     {
       "id": "dwmacro",
       "kind": "ashita-addon",
-      "version": "1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-507a4d21cc3b.zip",
-      "sha256": "57f96652924c20f70cd71d75eb6f40bcf012984915bcfe564e93a4e839531b31",
-      "size": 11112,
-      "treeHash": "507a4d21cc3b6a70b3c3391c601c1a1adfb423a78d77162b3fe4c9c8d7655481",
+      "version": "1.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-5eed292c9291.zip",
+      "sha256": "264f423fc28da7a6e7922c2e594228056a63f7e084ac7b041467fe4087a23b10",
+      "size": 13779,
+      "treeHash": "5eed292c9291138ab4e69a8065c14c48f190bde38408f808822329ea204c6d54",
       "summary": "Remembers your macro book and set across zoning and logging back in."
     },
     {
