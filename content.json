@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T02:35:42.748Z",
+  "publishedAt": "2026-08-08T03:40:04.036Z",
   "packages": [
     {
       "id": "dwbags",
@@ -26,12 +26,12 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.5.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-1542e51e27c4.zip",
-      "sha256": "c25731911057d2b29ff7f07f8619a95d60cd372746c6fd7f94ceec1eff236564",
-      "size": 179724,
-      "treeHash": "1542e51e27c458a53d14c51c7739c4f7fb0a28ce2bd1f8ea15e868e29d053560",
-      "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-60f8784346dc.zip",
+      "sha256": "c4427ee4aa6b0cfb0c81fd290764de3caf50e6dceae7830dc4d2a02bad82298e",
+      "size": 181074,
+      "treeHash": "60f8784346dc9ff9e6d58652aff0ed30e5808d9137cb3fa0fbe41e6f56407594",
+      "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
       "id": "dwengage",
