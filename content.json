@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T05:35:32.417Z",
+  "publishedAt": "2026-08-08T06:40:09.838Z",
   "packages": [
     {
       "id": "dwbags",
@@ -136,11 +136,11 @@
     {
       "id": "dwscan",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-daec7fbbc121.zip",
-      "sha256": "63a18514bd8ee634160b82aa1af6e7bcc22b0a4600d1828826dd22af48a6cd38",
-      "size": 20555,
-      "treeHash": "daec7fbbc1219a427512d8ee54ef27686668d857b8b885360f97aa14ee5eb6ae",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-0e8215ba33fe.zip",
+      "sha256": "f6235c301c2909a36400243cb95f38ab850b2eec9e98bfcd242c47547791428b",
+      "size": 21881,
+      "treeHash": "0e8215ba33fec83f89469c4471f1c911840aca26059bc693855962bb94d22355",
       "summary": "Scan your target: level, drops with this server\\"
     },
     {
