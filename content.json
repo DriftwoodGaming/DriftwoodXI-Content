@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T21:19:34.438Z",
+  "publishedAt": "2026-08-08T23:57:16.377Z",
   "packages": [
     {
       "id": "dwbags",
@@ -177,10 +177,10 @@
       "id": "dwwarehouse",
       "kind": "ashita-addon",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-2c5644949148.zip",
-      "sha256": "fae315be4ffb488115fdec6b6c2b93b38eae78f8b3c87e9d17e34ba02aa0ba38",
-      "size": 25963,
-      "treeHash": "2c56449491489c290c09338e4ba540beb8b590d2cf7dcce601fe1cb92fa60d8f",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-3aafda2d97f5.zip",
+      "sha256": "cce1a4bd7b73d1d14b74cb18808182ca745ee41ee03a629d7b3a1663500371de",
+      "size": 26296,
+      "treeHash": "3aafda2d97f5a7e1441b77301d45edd08ed63798f8cee8e35d0a6f130027b215",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
