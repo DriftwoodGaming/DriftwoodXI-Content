@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T17:00:10.507Z",
+  "publishedAt": "2026-08-08T17:54:17.060Z",
   "packages": [
     {
       "id": "dwbags",
@@ -76,11 +76,11 @@
     {
       "id": "dwmacro",
       "kind": "ashita-addon",
-      "version": "2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-7787073381c6.zip",
-      "sha256": "c49d29dcfe1a5e7f8173c9b551c45266569cbe6a96b7691ca2e29fc23b862122",
-      "size": 17788,
-      "treeHash": "7787073381c66e3df7474669948f95961fed0a69e633384b19f46ac92c0c6592",
+      "version": "2.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-b4a67011effe.zip",
+      "sha256": "c1c46c01fc317e5cfde0b7e7dae35028af0b4e4468afb20ac403109077424db0",
+      "size": 18447,
+      "treeHash": "b4a67011effeb9fdbbab9847533e2e793992b2bedf340386ed23a6dbcfd0fbe8",
       "summary": "Stops the client losing your macro book and set when you zone or log back in."
     },
     {
