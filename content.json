@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T03:40:04.036Z",
+  "publishedAt": "2026-08-08T05:35:32.417Z",
   "packages": [
     {
       "id": "dwbags",
@@ -132,6 +132,16 @@
       "size": 24767,
       "treeHash": "8def73a82a0d4582ff9b6c621c377626800de599940af6816ecd34bd7b6c9c05",
       "summary": "In-game bug reporting with your real game state attached."
+    },
+    {
+      "id": "dwscan",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-daec7fbbc121.zip",
+      "sha256": "63a18514bd8ee634160b82aa1af6e7bcc22b0a4600d1828826dd22af48a6cd38",
+      "size": 20555,
+      "treeHash": "daec7fbbc1219a427512d8ee54ef27686668d857b8b885360f97aa14ee5eb6ae",
+      "summary": "Scan your target: level, drops with this server\\"
     },
     {
       "id": "dwsquad",
