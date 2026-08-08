@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T00:50:41.578Z",
+  "publishedAt": "2026-08-08T02:35:42.748Z",
   "packages": [
     {
       "id": "dwbags",
@@ -46,11 +46,11 @@
     {
       "id": "dwfame",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-e8227881d760.zip",
-      "sha256": "3c95409f099f8e3c99c110a8afe3d1ffafbf31425a55a53792465ec564595b59",
-      "size": 22409,
-      "treeHash": "e8227881d760e072b5c84c36a860796825807ceac2ffbc11cba09845eb9dd867",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-020f68efa62e.zip",
+      "sha256": "d248921b8c2518ca4f58fdc4637449e23ad5de2904a0243be3de843ff1d06b61",
+      "size": 22643,
+      "treeHash": "020f68efa62eacfe353b72eb898f83f57c056201a5c0c452cc02fba568351448",
       "summary": "Fame ledger for DriftwoodXI: every fame area as a bar, with a guide."
     },
     {
@@ -76,11 +76,11 @@
     {
       "id": "dwmacro",
       "kind": "ashita-addon",
-      "version": "1.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-5eed292c9291.zip",
-      "sha256": "264f423fc28da7a6e7922c2e594228056a63f7e084ac7b041467fe4087a23b10",
-      "size": 13779,
-      "treeHash": "5eed292c9291138ab4e69a8065c14c48f190bde38408f808822329ea204c6d54",
+      "version": "1.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-68cc7845ab4b.zip",
+      "sha256": "5a7d8006ee495bb65d99627db9c4c2a2a9f228940383dea0b73dbaafe41d1a95",
+      "size": 16074,
+      "treeHash": "68cc7845ab4becbeb74392ed1ec9503132542f7de8d180910d1d6634749a57e4",
       "summary": "Remembers your macro book and set across zoning and logging back in."
     },
     {
@@ -146,11 +146,11 @@
     {
       "id": "dwtracker",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-56f8d7df5228.zip",
-      "sha256": "5ebc9b200b97a72345dc81db9907cb449bdb56689de06122e1df59e86ebd2799",
-      "size": 112171,
-      "treeHash": "56f8d7df52284bc32813d30587b57594a6e92eddc8ee3bd793e1617173da19cc",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-7339e3dfedb6.zip",
+      "sha256": "66715d701fe453a1d733f939fc4ff88f110c19296f408e31afac2daf2e5562a1",
+      "size": 112388,
+      "treeHash": "7339e3dfedb6378bf25f1818d0ddcc8b6091fe2d132520167bc6d20b423434b0",
       "summary": "In-game quest and mission tracker for DriftwoodXI."
     },
     {
