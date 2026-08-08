@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.08",
-  "publishedAt": "2026-08-08T17:54:17.060Z",
+  "publishedAt": "2026-08-08T19:30:05.788Z",
   "packages": [
     {
       "id": "dwbags",
@@ -52,6 +52,16 @@
       "size": 22643,
       "treeHash": "020f68efa62eacfe353b72eb898f83f57c056201a5c0c452cc02fba568351448",
       "summary": "Fame ledger for DriftwoodXI: every fame area as a bar, with a guide."
+    },
+    {
+      "id": "dwfishing",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfishing-72a9c4e1dee5.zip",
+      "sha256": "859d69825fd58f2a90eaef9d465da35237130dcb227715fdd96a60f75faf1c86",
+      "size": 41415,
+      "treeHash": "72a9c4e1dee55a3c23a719cb10659afa9d5c9e95fecdb1fe1c667d3d0c737396",
+      "summary": "The fishing guide: every fish, bait, rod and spot, and what to catch next at this server\\"
     },
     {
       "id": "dwgambits",
