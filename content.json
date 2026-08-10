@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.09",
-  "publishedAt": "2026-08-09T21:49:39.495Z",
+  "contentVersion": "2026.08.10",
+  "publishedAt": "2026-08-10T22:33:18.935Z",
   "packages": [
     {
       "id": "dwbags",
@@ -132,6 +132,16 @@
       "size": 30453,
       "treeHash": "e9f12f389094f299887be0180ce60bd15101d4bae815c4a050744dc43af7b38c",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, and the augment Exchange."
+    },
+    {
+      "id": "dwraid",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-6f66d4d97496.zip",
+      "sha256": "8a409b9ac10002705e9b00db5bbfc57c9fb980c20a10e8933dc51a6dc246106e",
+      "size": 14631,
+      "treeHash": "6f66d4d97496f61861fa87320f1b1f3c822066d15c8bb820ee7ffab2f1704203",
+      "summary": "Raid board for DriftwoodXI: the trial, the tiers, your driftmarks."
     },
     {
       "id": "dwreport",
