@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.11",
-  "publishedAt": "2026-08-11T01:33:37.129Z",
+  "publishedAt": "2026-08-11T03:21:16.925Z",
   "packages": [
     {
       "id": "dwbags",
@@ -16,21 +16,21 @@
     {
       "id": "dwcon",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-7d3eba548260.zip",
-      "sha256": "8ba942d375b7f00d6040d4a4be173556f83f78a97591658be1bc637e6b0e6e8c",
-      "size": 18484,
-      "treeHash": "7d3eba54826010ee60aa0d8fc446f320786f1ebc9a4d9967166bc119c90d40a2",
-      "summary": "Con pearls: every nearby enemy\\"
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-19f70e04aae1.zip",
+      "sha256": "38a40901317a17cb7268669868a459fabae6147dc8730ff0bab804ae30cb5ef7",
+      "size": 18864,
+      "treeHash": "19f70e04aae1e1e71440ce8430afb8c0b97e6dc87fb99cbddae5e14606dac962",
+      "summary": "Con pearls: every nearby enemy's /check difficulty and level, at a glance."
     },
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.6.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-3e5b6c4842a2.zip",
-      "sha256": "cadde4cc1c834fa162344a296474c7ad969d4b3829fbbda8f9288a2bad17db10",
-      "size": 181712,
-      "treeHash": "3e5b6c4842a277dd66c19cc4b71e8763fec6b919f81fd9004e78587f592ff7f6",
+      "version": "1.6.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-dd99c36dae59.zip",
+      "sha256": "67bb04d055b2a51811cea09de3968f12b8e88ff3e82b11dcb0be209eca97c41b",
+      "size": 181730,
+      "treeHash": "dd99c36dae599cf088786dfc3a8cb43a7dd5c50193e3d8b23802a7e75fd5174c",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -61,7 +61,7 @@
       "sha256": "53d43c2cbef1015d9c1b82f427d7a2d32fdeee4158fd4753a437642c06769e35",
       "size": 58479,
       "treeHash": "42ad0ef7261083c4b514a4e5b38526ebdac2e523768d7d1a979272e61b9a52b3",
-      "summary": "The fishing guide: a costed 0-110 route, and every fish, bait, rod and spot at this server\\"
+      "summary": "The fishing guide: a costed 0-110 route, and every fish, bait, rod and spot at this server's real rates."
     },
     {
       "id": "dwgambits",
@@ -81,7 +81,7 @@
       "sha256": "becfcfd3be7741d025333bf4183a37eb4bf89d55e3fafc61a9dcb15dc042be25",
       "size": 17223,
       "treeHash": "b14ff5de40b2f39604d2e0d954b620aa866b2485c7a3d13bda0aefb3c9b5d576",
-      "summary": "Party job window for DriftwoodXI -- change everyone\\"
+      "summary": "Party job window for DriftwoodXI -- change everyone's main and sub jobs by clicking."
     },
     {
       "id": "dwmacro",
@@ -126,21 +126,21 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.5.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-e45cc4168d5a.zip",
-      "sha256": "55fb29c47213945aaee3a5f867d1e60317f94ea89ab3b2c511d494b72ac8773b",
-      "size": 34121,
-      "treeHash": "e45cc4168d5a8865159784bafc697f01a56c4d230842528dc193ce7dc8d9ea9b",
+      "version": "1.5.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-1621082d815e.zip",
+      "sha256": "0274b741a40d6bc878612f4f58241fa5335093ab1326a11592c66571dbc7acfe",
+      "size": 34980,
+      "treeHash": "1621082d815eb2a50978fe7c2973b94adfbdff97be68d80d9fddf6faee872545",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, and the augment Exchange."
     },
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-6f66d4d97496.zip",
-      "sha256": "8a409b9ac10002705e9b00db5bbfc57c9fb980c20a10e8933dc51a6dc246106e",
-      "size": 14631,
-      "treeHash": "6f66d4d97496f61861fa87320f1b1f3c822066d15c8bb820ee7ffab2f1704203",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-cdcb57a603eb.zip",
+      "sha256": "4db0c2c14066ee92899e44ab53efb983b973d5d8492ebf2a160cf0a9d15171bc",
+      "size": 15100,
+      "treeHash": "cdcb57a603ebd7852c1d3cea36689bce6e6264b72c79a620824c0e1c7478f151",
       "summary": "Raid board for DriftwoodXI: the trial, the tiers, your driftmarks."
     },
     {
@@ -161,7 +161,7 @@
       "sha256": "0b8c5e40440a92f8819d4eb0a35ab0c00c90cfddb31908467da9bac934a25bbe",
       "size": 23824,
       "treeHash": "a8a1cf669451e964ceaf33d1d4aac87a0b3267ebf8e164d7e71db50c233eda85",
-      "summary": "Scan your target: level, drops with this server\\"
+      "summary": "Scan your target: level, drops with this server's real rates, resistances, aggro and quests."
     },
     {
       "id": "dwsquad",
