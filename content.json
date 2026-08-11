@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.11",
-  "publishedAt": "2026-08-11T04:02:49.343Z",
+  "publishedAt": "2026-08-11T16:34:19.785Z",
   "packages": [
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.12",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-635e58a95fea.zip",
-      "sha256": "9b717a43fbc6cbd6c5d3fe4671653310b0446d6f9fb2c614df16b71a46227e2f",
-      "size": 31984,
-      "treeHash": "635e58a95fea5918264a9ec5d987b7af658fbfc901d093819c125b242ff1a942",
+      "version": "1.13",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-3ba9785fdf30.zip",
+      "sha256": "d9d49ff1dd6c71f908bdca6d0cfbf5f67e06d66329e32fb212702dde61acd7de",
+      "size": 32159,
+      "treeHash": "3ba9785fdf30cf1211887cd6a633033cd5035c4add8d2051c6b45847b4d44315",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -126,11 +126,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.5.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-4031dc57d469.zip",
-      "sha256": "77a0a7040b39643441d97b7fcee960e069a3705b69f97c729aa1203c057fed2e",
-      "size": 37488,
-      "treeHash": "4031dc57d4699c472142d02f71d1671e3bb3d2b61899ee44ccdec94cadbf7438",
+      "version": "1.5.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-3dc3dd421857.zip",
+      "sha256": "5d3fe3868f4e162214d2c870dfa4077a18efe9e183e6cbd670e18631e37265c8",
+      "size": 38683,
+      "treeHash": "3dc3dd42185783cc103d3d4b8057aba45e55f796dbe709905710bcdc544699fb",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, and the augment Exchange."
     },
     {
