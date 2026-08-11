@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.11",
-  "publishedAt": "2026-08-11T16:34:19.785Z",
+  "publishedAt": "2026-08-11T23:02:22.563Z",
   "packages": [
     {
       "id": "dwbags",
@@ -136,12 +136,12 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-cdcb57a603eb.zip",
-      "sha256": "4db0c2c14066ee92899e44ab53efb983b973d5d8492ebf2a160cf0a9d15171bc",
-      "size": 15100,
-      "treeHash": "cdcb57a603ebd7852c1d3cea36689bce6e6264b72c79a620824c0e1c7478f151",
-      "summary": "Raid board for DriftwoodXI: the trial, the tiers, your driftmarks."
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-bbfac7728d1e.zip",
+      "sha256": "45b66301c9b9352633e1319371c02686dd72b72380327b35ad1b99b4ba28a56f",
+      "size": 15917,
+      "treeHash": "bbfac7728d1e97afa48d89fcd8a292c9490d9587684fd3fe2f28defc7a30d81b",
+      "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
       "id": "dwreport",
