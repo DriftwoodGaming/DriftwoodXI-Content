@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.12",
-  "publishedAt": "2026-08-12T01:47:51.453Z",
+  "publishedAt": "2026-08-12T16:31:57.222Z",
   "packages": [
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.13",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-3ba9785fdf30.zip",
-      "sha256": "d9d49ff1dd6c71f908bdca6d0cfbf5f67e06d66329e32fb212702dde61acd7de",
-      "size": 32159,
-      "treeHash": "3ba9785fdf30cf1211887cd6a633033cd5035c4add8d2051c6b45847b4d44315",
+      "version": "1.14",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-b34a1f42c892.zip",
+      "sha256": "e49175cb851516b98cddc9181be936d0890dec2881f324e33e807cbb3d807233",
+      "size": 32342,
+      "treeHash": "b34a1f42c8922a15f0b4649879f1e7c39e4ce1bfc6fe95d62e691a9e1eda5801",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -26,11 +26,11 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.6.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-dd99c36dae59.zip",
-      "sha256": "67bb04d055b2a51811cea09de3968f12b8e88ff3e82b11dcb0be209eca97c41b",
-      "size": 181730,
-      "treeHash": "dd99c36dae599cf088786dfc3a8cb43a7dd5c50193e3d8b23802a7e75fd5174c",
+      "version": "1.6.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-d0621ef78327.zip",
+      "sha256": "c8777580be12ff3eed446cf2da45e3ecbae56ac868875df1c0d2268717f03986",
+      "size": 181909,
+      "treeHash": "d0621ef78327321ed97889f0abc4ca84e6067b77d27ba5f33a5f74e910b2dcfd",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -58,7 +58,7 @@
       "kind": "ashita-addon",
       "version": "1.1.0",
       "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfishing-42ad0ef72610.zip",
-      "sha256": "53d43c2cbef1015d9c1b82f427d7a2d32fdeee4158fd4753a437642c06769e35",
+      "sha256": "f0a919da1c51b6eef83bd4b54da7d379e55733bb8c734075134da803826af383",
       "size": 58479,
       "treeHash": "42ad0ef7261083c4b514a4e5b38526ebdac2e523768d7d1a979272e61b9a52b3",
       "summary": "The fishing guide: a costed 0-110 route, and every fish, bait, rod and spot at this server's real rates."
@@ -66,11 +66,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-bb24d0451e20.zip",
-      "sha256": "09f0508579424bbff732f61c8f0435cb110c941b37d41b408edb7b96ed3b2b99",
-      "size": 40089,
-      "treeHash": "bb24d0451e200686965e5939434cc1a8da792d6f97fea47e1cd7c899012579c1",
+      "version": "1.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-552d88d8d0f9.zip",
+      "sha256": "421e1fc0e0ff20a5554300d5147a2d534c6edaa8f8161206d51551ade1bf7ff9",
+      "size": 40973,
+      "treeHash": "552d88d8d0f90c3e93f15766ff3ce31f9ef66dcd83076390bf1fb13420f17359",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -116,11 +116,11 @@
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.0.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-55cb73c4f79f.zip",
-      "sha256": "a360e6e74880d405d3739bea5dff635e70f08ced7fff696e681a0c30f52c5dc4",
-      "size": 20032,
-      "treeHash": "55cb73c4f79f60d0926b9388775b88a18b164bffbc53eb8121ce366e72081885",
+      "version": "1.0.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-7349dcd178f9.zip",
+      "sha256": "0a8364131f91d9cf247ea1e2623dd8f055aca3efcd14fba0b7db3f8e3589698e",
+      "size": 20188,
+      "treeHash": "7349dcd178f934a7a9c37dfdbb0617c18a2bdec4903023a089cc603657148239",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
@@ -146,11 +146,11 @@
     {
       "id": "dwreport",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwreport-3dcd0a333427.zip",
-      "sha256": "542e6c836e4315e84b3818870b7b0b7dc6d1ef3f84f6df6e9b9994cfaaca0a9a",
-      "size": 25680,
-      "treeHash": "3dcd0a3334273ae6509562a6b4da68d615f65fb58c931ac143a472a9a27e0422",
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwreport-7c0ed15ac108.zip",
+      "sha256": "23564400f60094c106582925d2228f0ff7733d1f5ca62609f677462ba9cf4c57",
+      "size": 26081,
+      "treeHash": "7c0ed15ac10871682d5dfdb0fe65d62a5dc689096e8ad61fb8c0875ccb053676",
       "summary": "In-game bug reporting with your real game state attached."
     },
     {
@@ -166,11 +166,11 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-2124502cd0d9.zip",
-      "sha256": "5adb88ae9b9a333cdee6e490cc3df2441810a3e51a59a265c7882ee1cf9f63c9",
-      "size": 19361,
-      "treeHash": "2124502cd0d90ae5eba2f4e0c177af601df3e7d7b10a020715c8d7ae1ac82763",
+      "version": "1.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-037a9d7bfc51.zip",
+      "sha256": "4fd7768deea06764116568bcc4f487eb8e083a43d14bb1fddb25da7408c523ed",
+      "size": 19680,
+      "treeHash": "037a9d7bfc5198a1993ef86f5395f7999e50f4e768a09f34ee5a8411ee14935a",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-9a721f5dd42e.zip",
-      "sha256": "1da90d50dfdd6830201a8a9b11ac32e0ac3ac5a20cee6d3e0f20e2a6266d016e",
-      "size": 29419,
-      "treeHash": "9a721f5dd42ebb0d98b90242d34762b2aab0f6aae833e6e5127df29f55b74163",
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-0ea0239599b1.zip",
+      "sha256": "2b0f38e5efa745d12039b7ed13e34dd90cf72707ae45884292bc47fcba11e650",
+      "size": 29982,
+      "treeHash": "0ea0239599b173ed5df9264a5c6aee1d23ed2a6ef0220cd0d7cd8c13a0c0d8f2",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
