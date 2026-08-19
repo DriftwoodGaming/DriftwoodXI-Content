@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.19",
-  "publishedAt": "2026-08-19T18:30:01.023Z",
+  "publishedAt": "2026-08-19T22:06:43.293Z",
   "packages": [
     {
       "id": "dwbags",
@@ -116,22 +116,22 @@
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.0.7",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-8dc0590c7569.zip",
-      "sha256": "96585974ca2378875ebcaba61f551a99320df220c706343d52ed505aa0f6b16b",
-      "size": 23015,
-      "treeHash": "8dc0590c75690df01b47e4763a2a843c3f87d35c2a9cdeda0b4785584bf717dd",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-b0d70c48ffee.zip",
+      "sha256": "cfe73755e529b3483429b81876b5f9cdef3af90a307dbb0aaca54caa845ea21a",
+      "size": 23416,
+      "treeHash": "b0d70c48ffee01dbe3e5e4d0dba150b036ea1bf3a6bde8032f2c39f7b6514bb8",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.6.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-3083a88063c0.zip",
-      "sha256": "288664665b4755a19786fdc63753eda522af07cdcaa3d9c85092f3e13871217f",
-      "size": 45683,
-      "treeHash": "3083a88063c07da28fa64afb972c47b52f66dc70c936534d8d134471a27c9b48",
-      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange, and the Outfitter."
+      "version": "1.7.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-cfa84b143096.zip",
+      "sha256": "bc96ab9d030018ea2055c5375c1d6c59d3066810fbad9fda28e080ade080898a",
+      "size": 56305,
+      "treeHash": "cfa84b143096acb69662514e3da35a8053251154634b6146c2d46a4f6a393d71",
+      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, and the Outfitter."
     },
     {
       "id": "dwraid",
