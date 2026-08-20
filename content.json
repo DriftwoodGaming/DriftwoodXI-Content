@@ -1,8 +1,18 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.19",
-  "publishedAt": "2026-08-19T22:06:43.293Z",
+  "contentVersion": "2026.08.20",
+  "publishedAt": "2026-08-20T03:51:16.354Z",
   "packages": [
+    {
+      "id": "dwah",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-cb6f8405d73d.zip",
+      "sha256": "af587809356f9a93cdfc252e57a7f90aafe3eefac79828905ca4d19c2a4ecfb8",
+      "size": 23594,
+      "treeHash": "cb6f8405d73d96ec9d44696380ddd12f49bdd8050654e6292cad7648865b537b",
+      "summary": "The Driftwood player market for DriftwoodXI."
+    },
     {
       "id": "dwbags",
       "kind": "ashita-addon",
