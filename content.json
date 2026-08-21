@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.21",
-  "publishedAt": "2026-08-21T01:58:45.798Z",
+  "publishedAt": "2026-08-21T03:20:02.360Z",
   "packages": [
     {
       "id": "dwah",
@@ -136,11 +136,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.8.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-b4328beeae1a.zip",
-      "sha256": "4160d8c51a89ab65b6be67a65d0255f9a4fb5c860d1ca4568c9251b42883049b",
-      "size": 57582,
-      "treeHash": "b4328beeae1ae707061bd4f61c0f25506cb938d6428f1ea63c36151b442964a5",
+      "version": "1.8.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-8a89d3c37f31.zip",
+      "sha256": "a155187020237485eac725cfb25ecc7af53575fa5522e1982c3e87d211295516",
+      "size": 57583,
+      "treeHash": "8a89d3c37f314f91973b8a6a9aa4965a132424583908e374c4d133e3d4f6dab7",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, and the Outfitter."
     },
     {
