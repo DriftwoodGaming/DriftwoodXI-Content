@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.22",
-  "publishedAt": "2026-08-22T19:24:53.982Z",
+  "publishedAt": "2026-08-22T22:56:43.742Z",
   "packages": [
     {
       "id": "dwah",
@@ -136,11 +136,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.9.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-e30d7e9741a8.zip",
-      "sha256": "f4593a9988a023de1d41abc10859241c3dab8d50e64ce1e847251687444664f0",
-      "size": 58920,
-      "treeHash": "e30d7e9741a8f93012b18a512dc3f5fa840bb406cbec4941b91a52fe291534d4",
+      "version": "1.10.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-13fd233e164b.zip",
+      "sha256": "856b6af9afd4407c104eaeeecd3407933749135481b922c7314231edd28380f0",
+      "size": 59033,
+      "treeHash": "13fd233e164b8b7205e95911f59051412ada5817fb6e2d4c040454919eedbdca",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, and the Outfitter."
     },
     {
@@ -166,11 +166,11 @@
     {
       "id": "dwscan",
       "kind": "ashita-addon",
-      "version": "1.1.4",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-bf658e83ec4e.zip",
-      "sha256": "0b4b4196637993d0f808488bfa3a7ec101efc0f6687a86c7b3534e5c92332aee",
-      "size": 26744,
-      "treeHash": "bf658e83ec4e45ed95289cf9414e35841d5dd8d40ded03679c07dac9962a60cd",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-0d40ee03c593.zip",
+      "sha256": "0e3973891edc8ea338ea3c001b4b7a95e9e67da1f4f8a7415f81967526d6c8b1",
+      "size": 32588,
+      "treeHash": "0d40ee03c5936b17b93abaa76f07651f8bc0bf250015966846490222ebda0a12",
       "summary": "Scan your target: level, drops with this server's real rates, resistances, aggro and quests."
     },
     {
