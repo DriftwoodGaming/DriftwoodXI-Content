@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.23",
-  "publishedAt": "2026-08-23T03:39:12.464Z",
+  "publishedAt": "2026-08-23T17:05:12.373Z",
   "packages": [
     {
       "id": "dwah",
@@ -176,11 +176,11 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.3.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-68b0af2a1a3f.zip",
-      "sha256": "662c9a66b16c951a355b77b938d67059cb569149a298884bc3305fb68a92d91a",
-      "size": 24966,
-      "treeHash": "68b0af2a1a3f404cbba8ee15bca962ca5018232e4b1393f8beabe7f603d3b5f0",
+      "version": "1.4.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-e2162b0aa4d0.zip",
+      "sha256": "2e51a99297dcdedb267f5cec582067569b280f8a70e3d80f3a63074a422ea380",
+      "size": 26550,
+      "treeHash": "e2162b0aa4d0e4704aeffa0f69a4636208b51d95753dbe5815d2deb8519899d6",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
