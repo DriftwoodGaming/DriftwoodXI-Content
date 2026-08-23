@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.23",
-  "publishedAt": "2026-08-23T17:05:12.373Z",
+  "publishedAt": "2026-08-23T22:49:38.180Z",
   "packages": [
     {
       "id": "dwah",
@@ -76,11 +76,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.4.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-b0d4d7a49c01.zip",
-      "sha256": "d24ffae820a0f2bf1a5aef815eeae6c0608015f6fc0d00dff20c6062e749f4f9",
-      "size": 47529,
-      "treeHash": "b0d4d7a49c015b994132266b95d74acea2f0fc6773f9c4df7af11383f0076fc1",
+      "version": "1.5.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-b2094afe539a.zip",
+      "sha256": "3433b9610871e28505d9a0c97c8b492c5c15d22c4d63e9c2239f41620bb80b81",
+      "size": 48049,
+      "treeHash": "b2094afe539ace7e6d7638a3f44fc3c39e6a39bd6c046301d03b443794b7a76e",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -92,6 +92,16 @@
       "size": 20419,
       "treeHash": "a3dee6d0dc970b9ba6f9f7c0fa84b90004407c73aa76fa32bf15eb1fda6dd528",
       "summary": "Party job window for DriftwoodXI -- change everyone's main and sub jobs by clicking."
+    },
+    {
+      "id": "dwleaderboard",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-c91c853af57f.zip",
+      "sha256": "590cce5a5d4a90223e0350bfb800153e02af9e4bd64e3318629ddac5fa1931a9",
+      "size": 15517,
+      "treeHash": "c91c853af57f4046e786399630f60630faaec178396ba5f5d136b849e38c96a1",
+      "summary": "The DriftwoodXI leaderboards: job levels, gil, kills, crafts, market deeds."
     },
     {
       "id": "dwmacro",
@@ -116,11 +126,11 @@
     {
       "id": "dwparse",
       "kind": "ashita-addon",
-      "version": "1.0.5",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwparse-be5a2767149e.zip",
-      "sha256": "c891adc7b1e98f6ee497054e28ba317ccd07089be49f0919f868d22c00b8010a",
-      "size": 24469,
-      "treeHash": "be5a2767149e5716e99d26af8cf8087bcbbb773a6f8b83c7d69ad5cb7ce4093e",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwparse-da22328cc444.zip",
+      "sha256": "fdf034e37aa7a560d4531a4fd2db159289608255cd16f4c6d91ddebf0913131d",
+      "size": 27799,
+      "treeHash": "da22328cc444df45d8954cbb87fd3741a3d8b20d937a5da95261ca84b496dfeb",
       "summary": "Damage and healing parser for DriftwoodXI. /parse or /dwparse."
     },
     {
@@ -196,11 +206,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.2.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-f28058e07403.zip",
-      "sha256": "b9db563589592e60dcac1e6c2aa9045fce8706cf7c41f798580a51f3a80610f7",
-      "size": 35473,
-      "treeHash": "f28058e07403ea539ba7c44bbbd0fe5bda0f8e2ea2dc81fe10399fce716e3188",
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-4e451ca8205f.zip",
+      "sha256": "c8aeb8ffb870c779de83ea3e897cc94e9165d17c07eb7f43a4255cc55b069032",
+      "size": 35919,
+      "treeHash": "4e451ca8205f99ce757f4438b8fbab3906a5ce4a0911011dff7e9e9d74ca6bab",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
