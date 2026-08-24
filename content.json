@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.23",
-  "publishedAt": "2026-08-23T22:49:38.180Z",
+  "contentVersion": "2026.08.24",
+  "publishedAt": "2026-08-24T16:52:25.141Z",
   "packages": [
     {
       "id": "dwah",
@@ -76,11 +76,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.5.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-b2094afe539a.zip",
-      "sha256": "3433b9610871e28505d9a0c97c8b492c5c15d22c4d63e9c2239f41620bb80b81",
-      "size": 48049,
-      "treeHash": "b2094afe539ace7e6d7638a3f44fc3c39e6a39bd6c046301d03b443794b7a76e",
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-3260d6f45c85.zip",
+      "sha256": "20d36f7234078914e9cb71479a1f22047930a8b8a07114585aeefb2e561c0789",
+      "size": 48918,
+      "treeHash": "3260d6f45c85019d1c548990fab91f3dcb580f9fbaca4715ef695b0e1f7419f3",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -156,11 +156,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.4.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-bdc7e6b9ec45.zip",
-      "sha256": "38ab4b8b8f4602a3c278290752618e2c71304c9b5efcdbaa4aaee3b93fde7959",
+      "version": "1.4.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-befe14ca1a52.zip",
+      "sha256": "6fe09b7dcba17815fd2f8c34a2774a3bdcc265dfbdfada80f5351b2fd73a43f1",
       "size": 24132,
-      "treeHash": "bdc7e6b9ec45f1c4db5dd936f55b5cfaefa8ebf32642345b2c0549bbf3754f5c",
+      "treeHash": "befe14ca1a52084db7cd42761a9236639c141805df10eb4aead0e20f9fd66e03",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.4.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-e2162b0aa4d0.zip",
-      "sha256": "2e51a99297dcdedb267f5cec582067569b280f8a70e3d80f3a63074a422ea380",
-      "size": 26550,
-      "treeHash": "e2162b0aa4d0e4704aeffa0f69a4636208b51d95753dbe5815d2deb8519899d6",
+      "version": "1.4.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-d7ef76f65bfb.zip",
+      "sha256": "d01d3cf59b71962485eca8e5a1e8fd5c6d2a376f21e6a57ed1807db6b3ba4870",
+      "size": 28253,
+      "treeHash": "d7ef76f65bfb656414f1709856ca0538b0bd2fcfd99ca7f4826674227b512044",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
