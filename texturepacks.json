@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "publishedAt": "2026-08-24T01:10:32.373Z",
+  "packs": [
+    {
+      "id": "maps",
+      "version": "2026.08.23",
+      "treeHash": "e39c3c2757660fcb2de6fc531d95b386bcb139577ba7bf9d235fe373dc5e4f12",
+      "installedBytes": 1773119088,
+      "parts": [
+        {
+          "url": "https://github.com/DriftwoodGaming/DriftwoodXI-Textures/releases/download/packs-2026.08.23/maps-e39c3c275766-p1.zip",
+          "sha256": "a1979eaeacc92188a75c7a06bfd1ae1ff442f7a2226e3d52c3f2dd64f0d600d7",
+          "size": 849708730
+        }
+      ],
+      "summary": "Combined community map pack (updated 2020 maps + Remapster + labeled)."
+    },
+    {
+      "id": "nexthd",
+      "version": "2026.08.23",
+      "treeHash": "1e6c384c9381f16d155e75263580f93d13dc8798bbf767759d8032ce3f33f05c",
+      "installedBytes": 7542340581,
+      "parts": [
+        {
+          "url": "https://github.com/DriftwoodGaming/DriftwoodXI-Textures/releases/download/packs-2026.08.23/nexthd-1e6c384c9381-p1.zip",
+          "sha256": "0963adb5b0fcaabda59e675805e02cdc72b29d3c729606c892d42ec8fe8c5194",
+          "size": 1508183642
+        },
+        {
+          "url": "https://github.com/DriftwoodGaming/DriftwoodXI-Textures/releases/download/packs-2026.08.23/nexthd-1e6c384c9381-p2.zip",
+          "sha256": "ffd1ab4e486ccd0573427fdb38a8f9c9e0a52ecd4bdf71bbba1f08976559a2db",
+          "size": 1437474036
+        },
+        {
+          "url": "https://github.com/DriftwoodGaming/DriftwoodXI-Textures/releases/download/packs-2026.08.23/nexthd-1e6c384c9381-p3.zip",
+          "sha256": "cfd0c9c4de0ac1abb23d70a259ccb5a718bd81ea842198fcf4d982d9dd8c3588",
+          "size": 640540680
+        }
+      ],
+      "summary": "Community HD texture overhaul."
+    }
+  ],
+  "minLauncherVersion": "0.26.0"
+}
