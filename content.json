@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.25",
-  "publishedAt": "2026-08-25T17:01:04.269Z",
+  "contentVersion": "2026.08.26",
+  "publishedAt": "2026-08-26T05:49:43.137Z",
   "packages": [
     {
       "id": "dwah",
@@ -12,6 +12,16 @@
       "size": 40367,
       "treeHash": "7667201562f106a40a846be0854a2b3e198d9d85dc656778c82f05b87b9cbf62",
       "summary": "The Driftwood player market for DriftwoodXI."
+    },
+    {
+      "id": "dwarena",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwarena-d37d9fbebcaa.zip",
+      "sha256": "d389322caa8dd295d1ecfc98fbe5795f83c2071f8ec4234b954e96317a961025",
+      "size": 14869,
+      "treeHash": "d37d9fbebcaa499130aa11f7199abb1a77750b71181fd5a1f89c2ee3824f81b2",
+      "summary": "The DriftwoodXI Gauntlet: wave survival for the whole alliance, floors 1 to 50."
     },
     {
       "id": "dwbags",
@@ -146,11 +156,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.10.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-781fd1068a37.zip",
-      "sha256": "a75b0a4bb2720b2e06983d720401916cb1a2c0abdc5bfc57bdaa2f57999ab9a6",
-      "size": 59546,
-      "treeHash": "781fd1068a37aafc1491d4cff51b48d187b9faf6d0e3ebd85fee9dc362b7b5e7",
+      "version": "1.11.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-e25d78fca5f3.zip",
+      "sha256": "606dad34b4ffeab05613fcc46a7030790645c7b3d629b2b2470dc45ec624120a",
+      "size": 60757,
+      "treeHash": "e25d78fca5f3aa95a939e63a9a62f29973f54f49d48d015d27c93297f9972bf1",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, and the Outfitter."
     },
     {
