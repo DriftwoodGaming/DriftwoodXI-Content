@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.26",
-  "publishedAt": "2026-08-26T22:01:57.297Z",
+  "contentVersion": "2026.08.27",
+  "publishedAt": "2026-08-27T19:51:27.079Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.19.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-89a555bd3dc8.zip",
-      "sha256": "93766bd72e58783d12255a8f60f366e56ab47afed671334d52d18971284f1123",
-      "size": 49748,
-      "treeHash": "89a555bd3dc88ffa76e53452a95a6d93d9a396e350797fcae81574601e435d8f",
+      "version": "1.20.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-a956fc5fa43d.zip",
+      "sha256": "fd75cc61afc75352cd8d9d008b54df08b5af02777dd4012e2137e711eece8694",
+      "size": 53159,
+      "treeHash": "a956fc5fa43dcb14d861c4c86518e8632732c00f9252c5afa3ff3052edddd6d3",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -166,11 +166,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.4.4",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-8139d875ebfd.zip",
-      "sha256": "d333f986ec88412636f992a1d2327e80ac40ab0a7502f3ed510f24b81556be40",
-      "size": 25161,
-      "treeHash": "8139d875ebfd162c593e2bcc79f8f74c5cf4462ba53ed8982fec1b247d9d5d6e",
+      "version": "1.5.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-d239115244fb.zip",
+      "sha256": "445ac02a6d66df723137c8069b73751d54f48d992c75e43207a3e67a486708af",
+      "size": 25730,
+      "treeHash": "d239115244fb6271b98ab82063efdd54ab0158defb90966b30628a43c06a016b",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
@@ -196,11 +196,11 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.4.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-259d66f5bea2.zip",
-      "sha256": "e41e166e69c7e8ee9d8cf567bb90a2f84f8841945b87948c6c50486d1e23ee95",
-      "size": 28775,
-      "treeHash": "259d66f5bea280968f0d521bf90e5d52da20db21356daef47edf576cf80e61d6",
+      "version": "1.5.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-89d8b615a0be.zip",
+      "sha256": "e33b6c9142041f73e5f0e24137e7a7b7381bd7799f829d08991a9027989decd5",
+      "size": 33589,
+      "treeHash": "89d8b615a0be7439e90e1ab7440f57041ee0071f500ada0abfa19d74df49072d",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
