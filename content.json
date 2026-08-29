@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.29",
-  "publishedAt": "2026-08-29T16:44:49.749Z",
+  "publishedAt": "2026-08-29T20:09:12.103Z",
   "packages": [
     {
       "id": "dwah",
@@ -42,6 +42,16 @@
       "size": 23448,
       "treeHash": "d755c107d9aea134c1e0c1465810ceaaeedc9aaade2bfdcab219422d009cd882",
       "summary": "Con pearls: every nearby enemy's /check difficulty and level, at a glance."
+    },
+    {
+      "id": "dwcpx",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-d77f965327b0.zip",
+      "sha256": "2765b386a73deaf69a9ca514b9b38f8303bbb7285322e8b0033d439a7f12ef4f",
+      "size": 22194,
+      "treeHash": "d77f965327b00b860d88de2c7ab265b33f57503a894c18880e9f155124a03433",
+      "summary": "The Conquest Point Exchange for DriftwoodXI -- every nation's CP shelf and every merchant's counter, from anywhere, for conquest points or gil."
     },
     {
       "id": "dwcraft",
