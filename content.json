@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.28",
-  "publishedAt": "2026-08-28T20:03:30.426Z",
+  "contentVersion": "2026.08.29",
+  "publishedAt": "2026-08-29T16:40:12.024Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,12 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.20.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-e887015aede0.zip",
-      "sha256": "d291e122659ed5e6ddd5194225d4990eca1bd3c799ea3ba71331fce8d1c923be",
-      "size": 53163,
-      "treeHash": "e887015aede01b338f78c3f800c449ddc043a8b1ed03e93f8627eb073b6bbc70",
-      "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
+      "version": "0.0-5a54d762",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-5a54d762ccb3.zip",
+      "sha256": "78bdfb1dfd609e4909b47e46e65275fc3c17f18dc7e7083fb643e16c8cec7ca0",
+      "size": 56824,
+      "treeHash": "5a54d762ccb38fd8f4d13d748b98bf3f012ec1046c3ce11a586bbc90fcefb0dc"
     },
     {
       "id": "dwcon",
@@ -146,11 +145,11 @@
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.1.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-37d009b7576c.zip",
-      "sha256": "a098bf6e384d08ffa6ae699737c0599ac4ac4c505d70e8623ec51d505e23a93b",
-      "size": 24308,
-      "treeHash": "37d009b7576c897708e476a562e1d28a8a236f42dd965142c0d2f83c99b244e0",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-c9a7549eef2c.zip",
+      "sha256": "5af98a7ebd0f7ea450ea14bea9af7f608b6aae16f2e3e43b2b8f6539a48e3aed",
+      "size": 26688,
+      "treeHash": "c9a7549eef2c7deb74b2bd617d155959fdbbef15dbb837ee12b7f6805ff87288",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
@@ -206,11 +205,11 @@
     {
       "id": "dwtracker",
       "kind": "ashita-addon",
-      "version": "1.0.11",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-52f8b2b362c8.zip",
-      "sha256": "2da9958a331fa583cafc8fa61aabfbf35aa65b285e00f490c010d9d262a14c3b",
-      "size": 116400,
-      "treeHash": "52f8b2b362c808e2cb671189d936bd2f26b7a977374e82b510cdd20af7468777",
+      "version": "1.0.13",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-a4bcb3dba2cb.zip",
+      "sha256": "b57797f4d9e0b9741b02ab89cbfb9ee4a3337a4713568171402cf1a6d678703e",
+      "size": 129755,
+      "treeHash": "a4bcb3dba2cbb978380c1900ef50173207b01e95e59436a74deac3274c186299",
       "summary": "In-game quest and mission tracker for DriftwoodXI."
     },
     {
