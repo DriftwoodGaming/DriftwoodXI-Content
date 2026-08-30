@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.29",
-  "publishedAt": "2026-08-29T20:09:12.103Z",
+  "contentVersion": "2026.08.30",
+  "publishedAt": "2026-08-30T17:43:57.271Z",
   "packages": [
     {
       "id": "dwah",
@@ -46,11 +46,11 @@
     {
       "id": "dwcpx",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-d77f965327b0.zip",
-      "sha256": "2765b386a73deaf69a9ca514b9b38f8303bbb7285322e8b0033d439a7f12ef4f",
-      "size": 22194,
-      "treeHash": "d77f965327b00b860d88de2c7ab265b33f57503a894c18880e9f155124a03433",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-2eb848766b85.zip",
+      "sha256": "3af6d354ce11a82bbdc1eb351bf60af464e965580803b0f41374a8410cb4be60",
+      "size": 23379,
+      "treeHash": "2eb848766b85b45b45bad2fb44f60f994f5d4725c92a74bca5bd4591bf04712a",
       "summary": "The Conquest Point Exchange for DriftwoodXI -- every nation's CP shelf and every merchant's counter, from anywhere, for conquest points or gil."
     },
     {
@@ -176,11 +176,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.6.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-7d499ed40906.zip",
-      "sha256": "b3b423ab1a0523431a2d77ae360a1402da86903855bcea84045df335a742f85d",
-      "size": 26438,
-      "treeHash": "7d499ed409060ff22177ce2759d70848d6fddb87331946db984d7ccbadb3495a",
+      "version": "1.6.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-027895db9c03.zip",
+      "sha256": "5ee2ea04b505bbc8c59910f25850570ece2a76c1589615f702966f7b84ca0751",
+      "size": 26708,
+      "treeHash": "027895db9c039a01e54247b9a7c781bc34c26980cfd6c11953f026b754fbd803",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
