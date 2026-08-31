@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.08.31",
-  "publishedAt": "2026-08-31T17:10:10.283Z",
+  "publishedAt": "2026-08-31T22:49:53.154Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.22.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-4444cdbe6d04.zip",
-      "sha256": "11dd948f6bd9d534d3f11f6b9af8ac24bdd130d38f60e5ba13ceecabe677cda9",
-      "size": 58888,
-      "treeHash": "4444cdbe6d04b2818f2827e248b160b4f26ab11335435813e7694a93a31d5e3e",
+      "version": "1.23.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-315a3631a05a.zip",
+      "sha256": "b1af9a0d242c072a65869d92041ed7c34ac85208e99fc6dadd9192eda9652561",
+      "size": 59245,
+      "treeHash": "315a3631a05afe066932872432f0abd47795f80ab5b0ce81ee25a684aa6ceebb",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -46,11 +46,11 @@
     {
       "id": "dwcpx",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-2eb848766b85.zip",
-      "sha256": "3af6d354ce11a82bbdc1eb351bf60af464e965580803b0f41374a8410cb4be60",
-      "size": 23379,
-      "treeHash": "2eb848766b85b45b45bad2fb44f60f994f5d4725c92a74bca5bd4591bf04712a",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-e4fbfcf36929.zip",
+      "sha256": "bdea5e29915304dac1036bc320d131ece19f26325bae80460b2ea72d6e37a247",
+      "size": 23643,
+      "treeHash": "e4fbfcf3692968fd5461696753dee1ccdd003de92a66e54900b431bf715ed9af",
       "summary": "The Conquest Point Exchange for DriftwoodXI -- every nation's CP shelf and every merchant's counter, from anywhere, for conquest points or gil."
     },
     {
