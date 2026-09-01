@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.08.31",
-  "publishedAt": "2026-08-31T23:34:25.851Z",
+  "contentVersion": "2026.09.01",
+  "publishedAt": "2026-09-01T23:09:59.908Z",
   "packages": [
     {
       "id": "dwah",
@@ -142,6 +142,16 @@
       "size": 40670,
       "treeHash": "9978a795d55c1fe22aeb8a8a4adcd6e7e633cdbfedf9999026b93c5bd1d8dce3",
       "summary": "The mercenary board storefront for DriftwoodXI."
+    },
+    {
+      "id": "dwmerits",
+      "kind": "ashita-addon",
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-efbaa7de7168.zip",
+      "sha256": "3fbec8e4caf5130e9ba2a12eadcd8842df718405e7fd79a4136bc544b270c83b",
+      "size": 20864,
+      "treeHash": "efbaa7de71684cbbe145be8099716c421298457c04505d7c2408eaf506244c88",
+      "summary": "Merit sheet for DriftwoodXI: true totals, raise/lower past the stock menu, job points, and Ascension."
     },
     {
       "id": "dwparse",
