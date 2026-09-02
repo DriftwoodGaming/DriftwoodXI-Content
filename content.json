@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.02",
-  "publishedAt": "2026-09-02T02:48:39.901Z",
+  "publishedAt": "2026-09-02T19:40:19.519Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.3.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-c15447f5b812.zip",
-      "sha256": "f63d00d73a6615957920c85929762569f3df51477ce8e253a18ac7860e1816f2",
-      "size": 40888,
-      "treeHash": "c15447f5b8122272e7d7cc9815fb098380027962d95d4896c0e49ec42ae397c0",
+      "version": "1.5.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-449dcbec5ff6.zip",
+      "sha256": "337fef033c9c678368165b9b5bdda74bef583af85e0a36717898d09a2cbf5319",
+      "size": 47977,
+      "treeHash": "449dcbec5ff6082e1e602ccb386376480f409d6829533340d1c07e88a8f208b1",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.23.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-315a3631a05a.zip",
-      "sha256": "b1af9a0d242c072a65869d92041ed7c34ac85208e99fc6dadd9192eda9652561",
-      "size": 59245,
-      "treeHash": "315a3631a05afe066932872432f0abd47795f80ab5b0ce81ee25a684aa6ceebb",
+      "version": "1.24.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-3db1ac89ab10.zip",
+      "sha256": "d23cc226f61429e52a345ad214193e3417d17bf15866dba62a47d209409b241a",
+      "size": 62670,
+      "treeHash": "3db1ac89ab10401f4565198dafc3bb7fc990ede4aa712f36dd1964c9ae68463d",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -96,11 +96,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.8.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-dfd05f44b911.zip",
-      "sha256": "9156b96b57b05fb40d3a145a791afa3280b9880adbd62edfe470f70c3fdd2cf0",
-      "size": 49850,
-      "treeHash": "dfd05f44b91102e6ba04cad1280ebb9259449272ab3ac95b20c5ea85d94e89a0",
+      "version": "1.9.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-d4a5df26d885.zip",
+      "sha256": "d0bd52518a4ec6c1bfc3df6254398de44889bd4656d9a7df526e076778161773",
+      "size": 50025,
+      "treeHash": "d4a5df26d8857681004d215c1a9d9e57c97532b9ca7f3412ca1fb7ec4f63a938",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -236,11 +236,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.8.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-42d00f5b1638.zip",
-      "sha256": "e32e4d4c5b50e91dda775d984058e0753db777d58bbbfcdb22bc15cb1c33e650",
-      "size": 48468,
-      "treeHash": "42d00f5b1638a7232f0cef50eb150b814be63fb9dd4210ef1317ee6083649424",
+      "version": "1.10.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-303342967258.zip",
+      "sha256": "1192b623edc4e574f10f9fe17ee7fcd503bea120559035dcb61d2a61f6be8fc7",
+      "size": 55051,
+      "treeHash": "3033429672582c2fb913e0a8ad3c3d1c89cb54f6c9a81067bd608319e117d9da",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
