@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.01",
-  "publishedAt": "2026-09-01T23:09:59.908Z",
+  "contentVersion": "2026.09.02",
+  "publishedAt": "2026-09-02T02:48:39.901Z",
   "packages": [
     {
       "id": "dwah",
@@ -146,11 +146,11 @@
     {
       "id": "dwmerits",
       "kind": "ashita-addon",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-efbaa7de7168.zip",
-      "sha256": "3fbec8e4caf5130e9ba2a12eadcd8842df718405e7fd79a4136bc544b270c83b",
-      "size": 20864,
-      "treeHash": "efbaa7de71684cbbe145be8099716c421298457c04505d7c2408eaf506244c88",
+      "version": "1.1.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-d4dac43ce08a.zip",
+      "sha256": "639f4da003be3293b7a1250c8ba0061e2138aa90b6137f1c458bf064c0c3798a",
+      "size": 21041,
+      "treeHash": "d4dac43ce08a6297cc9a4924678b86e6ad924e84875049dc252141bccdee1188",
       "summary": "Merit sheet for DriftwoodXI: true totals, raise/lower past the stock menu, job points, and Ascension."
     },
     {
