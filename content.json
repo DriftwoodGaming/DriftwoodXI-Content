@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.02",
-  "publishedAt": "2026-09-02T19:40:19.519Z",
+  "contentVersion": "2026.09.03",
+  "publishedAt": "2026-09-03T18:04:59.702Z",
   "packages": [
     {
       "id": "dwah",
@@ -222,6 +222,16 @@
       "size": 33589,
       "treeHash": "89d8b615a0be7439e90e1ab7440f57041ee0071f500ada0abfa19d74df49072d",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
+    },
+    {
+      "id": "dwtoau",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-d8502c95eda2.zip",
+      "sha256": "cc765bc55f2419ad9c464f432514532d9c16ee5bbb6a1902a8f98fba495d11bc",
+      "size": 23473,
+      "treeHash": "d8502c95eda2a0f62deb9991b058cfaea29935f67b3884a1988cf3da728563b5",
+      "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
       "id": "dwtracker",
