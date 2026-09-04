@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.04",
-  "publishedAt": "2026-09-04T00:08:21.165Z",
+  "publishedAt": "2026-09-04T18:15:48.576Z",
   "packages": [
     {
       "id": "dwah",
@@ -146,11 +146,11 @@
     {
       "id": "dwmerits",
       "kind": "ashita-addon",
-      "version": "1.1.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-d4dac43ce08a.zip",
-      "sha256": "639f4da003be3293b7a1250c8ba0061e2138aa90b6137f1c458bf064c0c3798a",
-      "size": 21041,
-      "treeHash": "d4dac43ce08a6297cc9a4924678b86e6ad924e84875049dc252141bccdee1188",
+      "version": "1.1.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-17c687a779d9.zip",
+      "sha256": "31db23609eefba472ecefcfc32378d5acd15bfa3a836a1b3401e3ce80fc3dc91",
+      "size": 21340,
+      "treeHash": "17c687a779d9aa6de8f5ac6f7dc82ab999905aa68e8c84c6063853c15fd6705a",
       "summary": "Merit sheet for DriftwoodXI: true totals, raise/lower past the stock menu, job points, and Ascension."
     },
     {
@@ -176,11 +176,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.18.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-ed32a2fdd8a1.zip",
-      "sha256": "2841e62ebf959d63f4867064405489cda544805fa93242e475538674f9a1fba3",
-      "size": 68186,
-      "treeHash": "ed32a2fdd8a1496361a954eb0819db2aebacd7f796c87a0a0bb4a8672522b0fc",
+      "version": "1.20.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-47cb6d3f2ed6.zip",
+      "sha256": "9cbd88408f2a3e9bff8f957a6149ae569ef1c5cc0e165084d50534a87851453d",
+      "size": 69131,
+      "treeHash": "47cb6d3f2ed6b723774a6c8708b2414b4180e402aedf91071ddcbbb37d28c58a",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
@@ -216,31 +216,31 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.5.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-89d8b615a0be.zip",
-      "sha256": "e33b6c9142041f73e5f0e24137e7a7b7381bd7799f829d08991a9027989decd5",
-      "size": 33589,
-      "treeHash": "89d8b615a0be7439e90e1ab7440f57041ee0071f500ada0abfa19d74df49072d",
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-f23c1d5701bf.zip",
+      "sha256": "3f3a8fd96ce3a679572a45765d489376f4fe9bf7f153269f2139843d326ea1cc",
+      "size": 35154,
+      "treeHash": "f23c1d5701bf685b2f5a74077788e8099a2ecfcb4897adb2e15188c3ebe57c27",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
       "id": "dwtoau",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-3d3db15a7ced.zip",
-      "sha256": "938089347d77d46256b054224543590623e6fa34d6dafa25bc596bfa48670497",
-      "size": 29947,
-      "treeHash": "3d3db15a7ced8588c92cc89f986ee8d3de6dcc2aed95b0fd402f1cf3f0f6a7b1",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-5861b0c62cbb.zip",
+      "sha256": "f4fa283a3c7dde27958fea5b9506086388d8c12c822c7f550bf02cb4733e6e91",
+      "size": 35117,
+      "treeHash": "5861b0c62cbbec394b02d8125150cd743f22ccd36b2b580a1dc99b567e12fe94",
       "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
       "id": "dwtracker",
       "kind": "ashita-addon",
-      "version": "1.0.13",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-a4bcb3dba2cb.zip",
-      "sha256": "b57797f4d9e0b9741b02ab89cbfb9ee4a3337a4713568171402cf1a6d678703e",
-      "size": 129755,
-      "treeHash": "a4bcb3dba2cbb978380c1900ef50173207b01e95e59436a74deac3274c186299",
+      "version": "1.0.14",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-28b7a8ff7271.zip",
+      "sha256": "70c08041caea4cefc0c4b88e94a76a289c58f4b10908ca1f4431da8bfcac7e33",
+      "size": 129779,
+      "treeHash": "28b7a8ff727162f9d6a26a55e95cf2e88b3bca68ad0cefa998532a9e004f90f0",
       "summary": "In-game quest and mission tracker for DriftwoodXI."
     },
     {
