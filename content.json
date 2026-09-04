@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.03",
-  "publishedAt": "2026-09-03T18:04:59.702Z",
+  "contentVersion": "2026.09.04",
+  "publishedAt": "2026-09-04T00:08:21.165Z",
   "packages": [
     {
       "id": "dwah",
@@ -176,21 +176,21 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.15.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-3ee969e458bd.zip",
-      "sha256": "c161680c081967b94f2d0b8cca0ef755f0aa6e945c49c235fb490f23253ce960",
-      "size": 66860,
-      "treeHash": "3ee969e458bd3780461dc94ebf12374efee6b2d14fae01557d88bba7a008f4ba",
-      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, the Outfitter, and the Pop-Items shelf."
+      "version": "1.18.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-ed32a2fdd8a1.zip",
+      "sha256": "2841e62ebf959d63f4867064405489cda544805fa93242e475538674f9a1fba3",
+      "size": 68186,
+      "treeHash": "ed32a2fdd8a1496361a954eb0819db2aebacd7f796c87a0a0bb4a8672522b0fc",
+      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.8.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-4ff9edd173c1.zip",
-      "sha256": "73b03ca3f0b72e444b3768df986be659c6e9709a0c67b4d641e599475dd6b371",
-      "size": 30767,
-      "treeHash": "4ff9edd173c1888d8637a4ecb191bee5253907191e65636fb2674ff28715ce06",
+      "version": "1.10.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-7fe5c427b3a9.zip",
+      "sha256": "82e57417d2d2316aa30642aa97f0e19548b14e595f2a35669ef9135be7a0ee9a",
+      "size": 30876,
+      "treeHash": "7fe5c427b3a9c3657c7014ed503d5426a2ff0b133b418a5548f807d5752a62aa",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
@@ -226,11 +226,11 @@
     {
       "id": "dwtoau",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-d8502c95eda2.zip",
-      "sha256": "cc765bc55f2419ad9c464f432514532d9c16ee5bbb6a1902a8f98fba495d11bc",
-      "size": 23473,
-      "treeHash": "d8502c95eda2a0f62deb9991b058cfaea29935f67b3884a1988cf3da728563b5",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-3d3db15a7ced.zip",
+      "sha256": "938089347d77d46256b054224543590623e6fa34d6dafa25bc596bfa48670497",
+      "size": 29947,
+      "treeHash": "3d3db15a7ced8588c92cc89f986ee8d3de6dcc2aed95b0fd402f1cf3f0f6a7b1",
       "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
