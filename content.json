@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.04",
-  "publishedAt": "2026-09-04T18:15:48.576Z",
+  "contentVersion": "2026.09.05",
+  "publishedAt": "2026-09-05T15:20:06.936Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.5.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-449dcbec5ff6.zip",
-      "sha256": "337fef033c9c678368165b9b5bdda74bef583af85e0a36717898d09a2cbf5319",
-      "size": 47977,
-      "treeHash": "449dcbec5ff6082e1e602ccb386376480f409d6829533340d1c07e88a8f208b1",
+      "version": "1.5.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-0faf633d92a7.zip",
+      "sha256": "32bf9b4c2a89ccb1fd9727343eb59ba12d281a22b8df9b50a73a41dd2929be1c",
+      "size": 48140,
+      "treeHash": "0faf633d92a7a4cb1d8e29c3d5148953a1fa1261c1fa274985aa39cc03d29a1d",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -146,12 +146,22 @@
     {
       "id": "dwmerits",
       "kind": "ashita-addon",
-      "version": "1.1.3",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-17c687a779d9.zip",
-      "sha256": "31db23609eefba472ecefcfc32378d5acd15bfa3a836a1b3401e3ce80fc3dc91",
-      "size": 21340,
-      "treeHash": "17c687a779d9aa6de8f5ac6f7dc82ab999905aa68e8c84c6063853c15fd6705a",
+      "version": "1.1.4",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-f66ddb396511.zip",
+      "sha256": "bd4b4e164eb17a79ff5eff52bec9994310ea1f95da1ff16f278392af1eb823ab",
+      "size": 26695,
+      "treeHash": "f66ddb39651116663e5a100dfbf8d62b601f48dc2b9fcbbee25fad9ae77fc434",
       "summary": "Merit sheet for DriftwoodXI: true totals, raise/lower past the stock menu, job points, and Ascension."
+    },
+    {
+      "id": "dwnemesis",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-96ca4e43c2fa.zip",
+      "sha256": "eaeb1953c7ba75c0cb750b2d5e8b2eee1233667d03f093c8a2de69b94ebfed29",
+      "size": 22236,
+      "treeHash": "96ca4e43c2fad166e501234e5fd7b5dcfeb92a2a740177d3b9edd0f42228de62",
+      "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
       "id": "dwparse",
@@ -176,11 +186,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.20.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-47cb6d3f2ed6.zip",
-      "sha256": "9cbd88408f2a3e9bff8f957a6149ae569ef1c5cc0e165084d50534a87851453d",
-      "size": 69131,
-      "treeHash": "47cb6d3f2ed6b723774a6c8708b2414b4180e402aedf91071ddcbbb37d28c58a",
+      "version": "1.20.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-8b2c4db92cb6.zip",
+      "sha256": "613be3385580bbf3d6f3e4442b678b2e1942fcc9cc7b02ee83c037dc1fdf86f4",
+      "size": 69250,
+      "treeHash": "8b2c4db92cb63dd839047a1288f8042f1cd86fc1a95c5cb726fdfd08dc77fee7",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
@@ -246,11 +256,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.10.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-303342967258.zip",
-      "sha256": "1192b623edc4e574f10f9fe17ee7fcd503bea120559035dcb61d2a61f6be8fc7",
-      "size": 55051,
-      "treeHash": "3033429672582c2fb913e0a8ad3c3d1c89cb54f6c9a81067bd608319e117d9da",
+      "version": "1.11.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-ebb6650a6133.zip",
+      "sha256": "7f34b6e617fa641faf94cf7097dc20544a7646c9e5c65a3269b9ea2983d56260",
+      "size": 55901,
+      "treeHash": "ebb6650a613325a4a6cc37d957788faf21bde255a94d6d623d913e045708493e",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
