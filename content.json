@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.05",
-  "publishedAt": "2026-09-05T15:20:06.936Z",
+  "publishedAt": "2026-09-05T22:41:36.887Z",
   "packages": [
     {
       "id": "dwah",
@@ -36,31 +36,31 @@
     {
       "id": "dwcon",
       "kind": "ashita-addon",
-      "version": "1.0.10",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-d755c107d9ae.zip",
-      "sha256": "4c1e780d69c0138e9137d9fa9f896413c4c0afc09fc672128417db32c064607e",
-      "size": 23448,
-      "treeHash": "d755c107d9aea134c1e0c1465810ceaaeedc9aaade2bfdcab219422d009cd882",
+      "version": "1.0.11",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-d49df9f14808.zip",
+      "sha256": "89b63c1de0b569db7eb2fe8045dd0b1f4e4ccdaf2f936302fa061ccfcf5b2e0c",
+      "size": 23869,
+      "treeHash": "d49df9f1480885d25f5ad3a9385786018d71940b7c9cca0f0d60e4a0980e544d",
       "summary": "Con pearls: every nearby enemy's /check difficulty and level, at a glance."
     },
     {
       "id": "dwcpx",
       "kind": "ashita-addon",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-e4fbfcf36929.zip",
-      "sha256": "bdea5e29915304dac1036bc320d131ece19f26325bae80460b2ea72d6e37a247",
-      "size": 23643,
-      "treeHash": "e4fbfcf3692968fd5461696753dee1ccdd003de92a66e54900b431bf715ed9af",
+      "version": "1.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcpx-cb44a5bb577a.zip",
+      "sha256": "09767cc049c0ec765d0fc865026280533c4bcdd83f9c9d9267bb3bcada31926c",
+      "size": 24375,
+      "treeHash": "cb44a5bb577a89bd94cdd874203a9a845f060d1cae0e0ad8ac4d7b119458279a",
       "summary": "The Conquest Point Exchange for DriftwoodXI -- every nation's CP shelf and every merchant's counter, from anywhere, for conquest points or gil."
     },
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.6.9",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-a48a808c0295.zip",
-      "sha256": "24d9b1ea2b6277fd796835b327cd152e8b13710d7f19c4a5bcafd4205b81d8f3",
-      "size": 185686,
-      "treeHash": "a48a808c0295070e57666b9eca1776ded822f6f74426778c2758cb9ea59b2cfc",
+      "version": "1.6.10",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-f34aa5af2af1.zip",
+      "sha256": "0fca4c15319972c0f78cdf25ec0f5fb1279c3f71c5f49c2505269ae8a6eec1ff",
+      "size": 186409,
+      "treeHash": "f34aa5af2af16eeeff7aeab86e6cf76a1cb7be2028e35480ee6bae620ea12669",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -76,11 +76,11 @@
     {
       "id": "dwfame",
       "kind": "ashita-addon",
-      "version": "1.0.10",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-519d2284460d.zip",
-      "sha256": "3a629b34f4327f6012b3a45ff5802b4539a05dbdd827162bd99f033d7e0db9fe",
-      "size": 26566,
-      "treeHash": "519d2284460dcb07bcff1552204198b65f5e04fba55948dfeb9131df2d8e8a45",
+      "version": "1.0.11",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfame-4e5eac2730a0.zip",
+      "sha256": "5e1ea824838bd90f8c3f6f7c2de7c338f3afec93bf49922e3ce8b54328aea0a3",
+      "size": 26823,
+      "treeHash": "4e5eac2730a07236dc5adeb53d79d5bba243ea0a5dfd6839b72d46f0f00adb1b",
       "summary": "Fame ledger for DriftwoodXI: every fame area as a bar, with a guide."
     },
     {
@@ -116,12 +116,12 @@
     {
       "id": "dwleaderboard",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-faa2c822d2d3.zip",
-      "sha256": "2b6c6e3d171112b9776fe172464052ae3e8416b2c49596453806749be497bd6b",
-      "size": 16038,
-      "treeHash": "faa2c822d2d3e6237b94a611194fc5c3c44dee8307015fa58f78d9464501e6d8",
-      "summary": "The DriftwoodXI leaderboards: job levels, gil, kills, crafts, market deeds."
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-0b59ff7405df.zip",
+      "sha256": "6fbf4aff75a3bfe1c2b253b3b1dcfc1bb1ddbd84efa1282586724924d5894487",
+      "size": 16369,
+      "treeHash": "0b59ff7405dfbd4ad8e234a911864756970cdeb17600be613c45c34ff7592200",
+      "summary": "The DriftwoodXI leaderboards: job levels, gil, kills, no-death streaks, storage, crafts, market deeds."
     },
     {
       "id": "dwmacro",
@@ -136,11 +136,11 @@
     {
       "id": "dwmerc",
       "kind": "ashita-addon",
-      "version": "1.2.7",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerc-9978a795d55c.zip",
-      "sha256": "e25018df94967e57f1a99cee3c915853b6e0ee53ef19a90fbd1c56ac5c77fe51",
-      "size": 40670,
-      "treeHash": "9978a795d55c1fe22aeb8a8a4adcd6e7e633cdbfedf9999026b93c5bd1d8dce3",
+      "version": "1.2.8",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerc-4c396833ba7e.zip",
+      "sha256": "961d59ccacf5a4e7a66b6e2403f0978153ff7a5460a7fe639ac0da67fa133b3c",
+      "size": 40999,
+      "treeHash": "4c396833ba7e0a4572171336379aa02cd1090e7fb12fe10ef8fc8823bcc852ad",
       "summary": "The mercenary board storefront for DriftwoodXI."
     },
     {
@@ -156,21 +156,21 @@
     {
       "id": "dwnemesis",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-96ca4e43c2fa.zip",
-      "sha256": "eaeb1953c7ba75c0cb750b2d5e8b2eee1233667d03f093c8a2de69b94ebfed29",
-      "size": 22236,
-      "treeHash": "96ca4e43c2fad166e501234e5fd7b5dcfeb92a2a740177d3b9edd0f42228de62",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-797e67f33cb6.zip",
+      "sha256": "e4eb4ca1efcc7c1a210b8e5e60b5ac2560cd3f0adc72bb026c1a67015dd10b6e",
+      "size": 24852,
+      "treeHash": "797e67f33cb6201bff382aa82585903f37c011321c12fad0777e0d498acad8a8",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
       "id": "dwparse",
       "kind": "ashita-addon",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwparse-ed5cd9dc4e0c.zip",
-      "sha256": "a4fdb84258fab48124daf545a55a81b8288ba5227c20af19ad9df575c1218e72",
-      "size": 28321,
-      "treeHash": "ed5cd9dc4e0c56af7221429757543b516c7b3b2f256fac32bbf8adc2c8117c9d",
+      "version": "1.1.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwparse-48acf0285789.zip",
+      "sha256": "2a23b8b7708c82ca677f2059fbd93d01c5db284dfae94ad0797eb53855a085cc",
+      "size": 29072,
+      "treeHash": "48acf02857895109a27f5cc33db8c935ab3d762ef4adc1edc735acb798992d74",
       "summary": "Damage and healing parser for DriftwoodXI. /parse or /dwparse."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.20.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-8b2c4db92cb6.zip",
-      "sha256": "613be3385580bbf3d6f3e4442b678b2e1942fcc9cc7b02ee83c037dc1fdf86f4",
-      "size": 69250,
-      "treeHash": "8b2c4db92cb63dd839047a1288f8042f1cd86fc1a95c5cb726fdfd08dc77fee7",
+      "version": "1.20.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-48be4dcfb27b.zip",
+      "sha256": "9245228dd863fc443bc2f538cad9dfb35060b6b7cd372e55c58e1011c31bc355",
+      "size": 71087,
+      "treeHash": "48be4dcfb27bb66cc13d9855204c2c66b197e5e831c17950eb6258d479d58ac0",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
@@ -206,11 +206,11 @@
     {
       "id": "dwreport",
       "kind": "ashita-addon",
-      "version": "1.0.8",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwreport-3642d9013fcf.zip",
-      "sha256": "3e3ac4421ffcf24ba553635c8db55e30475a76b71422c74374c119e5177dbf75",
-      "size": 31177,
-      "treeHash": "3642d9013fcfab9778500bb293b062057aea0f230833009c1acb5fa26da993fd",
+      "version": "1.0.9",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwreport-76ec49be56de.zip",
+      "sha256": "280a814e44642fb2053078d827247056a6c2360ae8d83ac68a4ff64704ef4957",
+      "size": 31406,
+      "treeHash": "76ec49be56dec14637295eae31efa2202bbc073b76ad6939a98e1f69f6747084",
       "summary": "In-game bug reporting with your real game state attached."
     },
     {
@@ -226,11 +226,11 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.6.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-f23c1d5701bf.zip",
-      "sha256": "3f3a8fd96ce3a679572a45765d489376f4fe9bf7f153269f2139843d326ea1cc",
-      "size": 35154,
-      "treeHash": "f23c1d5701bf685b2f5a74077788e8099a2ecfcb4897adb2e15188c3ebe57c27",
+      "version": "1.6.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-aecccfab997c.zip",
+      "sha256": "99c1ad971939a7282b907354ef11c9ab88d10eeb6cb80bfd76485b7510501566",
+      "size": 35181,
+      "treeHash": "aecccfab997c842459e0412079f31e6140cf56da62870bd0db0d6d9492478af1",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
@@ -246,21 +246,21 @@
     {
       "id": "dwtracker",
       "kind": "ashita-addon",
-      "version": "1.0.14",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-28b7a8ff7271.zip",
-      "sha256": "70c08041caea4cefc0c4b88e94a76a289c58f4b10908ca1f4431da8bfcac7e33",
-      "size": 129779,
-      "treeHash": "28b7a8ff727162f9d6a26a55e95cf2e88b3bca68ad0cefa998532a9e004f90f0",
+      "version": "1.0.15",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-f03bca031c4d.zip",
+      "sha256": "fca555300bd2fd21cf37c75de828619bb8cb34f43069b5936ad34ee54e9914fa",
+      "size": 130789,
+      "treeHash": "f03bca031c4dda11459c39dd117dd32ab2f112a29a825b14f4f85da496f2c800",
       "summary": "In-game quest and mission tracker for DriftwoodXI."
     },
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.11.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-ebb6650a6133.zip",
-      "sha256": "7f34b6e617fa641faf94cf7097dc20544a7646c9e5c65a3269b9ea2983d56260",
-      "size": 55901,
-      "treeHash": "ebb6650a613325a4a6cc37d957788faf21bde255a94d6d623d913e045708493e",
+      "version": "1.12.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-ecac485303d1.zip",
+      "sha256": "a8b77b240e75b48e9b7de69711e6dfe933a54d3c26c20da2be910cb63296b653",
+      "size": 60279,
+      "treeHash": "ecac485303d19a30444e494ca43d9eeed6c37e00db5a95e861efc50ab13afbdd",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
