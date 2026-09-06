@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.05",
-  "publishedAt": "2026-09-05T22:41:36.887Z",
+  "contentVersion": "2026.09.06",
+  "publishedAt": "2026-09-06T04:48:13.416Z",
   "packages": [
     {
       "id": "dwah",
@@ -186,11 +186,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.20.3",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-48be4dcfb27b.zip",
-      "sha256": "9245228dd863fc443bc2f538cad9dfb35060b6b7cd372e55c58e1011c31bc355",
-      "size": 71087,
-      "treeHash": "48be4dcfb27bb66cc13d9855204c2c66b197e5e831c17950eb6258d479d58ac0",
+      "version": "1.21.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-ff351cf2fb2c.zip",
+      "sha256": "59c5399977cbf9eca2d383df8f0566918b47a616710970907890a8c9c4c9a2f7",
+      "size": 71464,
+      "treeHash": "ff351cf2fb2c0edc53186ed353fcf4a9faa83f74d31579ea875cf40fc04a5f85",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the augment Exchange with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
@@ -226,11 +226,11 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.6.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-aecccfab997c.zip",
-      "sha256": "99c1ad971939a7282b907354ef11c9ab88d10eeb6cb80bfd76485b7510501566",
-      "size": 35181,
-      "treeHash": "aecccfab997c842459e0412079f31e6140cf56da62870bd0db0d6d9492478af1",
+      "version": "1.6.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-5fa78de8f841.zip",
+      "sha256": "136dcdd0965362d71e656fed2962460b0d5e197eac91c0270aa7d1dd010b51b5",
+      "size": 35216,
+      "treeHash": "5fa78de8f8410ab10661ddde164bfbc1e1018c87c16c7e706fe797ef6d0b9994",
       "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
     },
     {
