@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.07",
-  "publishedAt": "2026-09-07T15:22:27.177Z",
+  "contentVersion": "2026.09.08",
+  "publishedAt": "2026-09-08T05:05:09.481Z",
   "packages": [
     {
       "id": "dwah",
@@ -86,11 +86,11 @@
     {
       "id": "dwfishing",
       "kind": "ashita-addon",
-      "version": "1.2.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfishing-2854f66e16aa.zip",
-      "sha256": "1c864e6de8f1dfcefa81171b9d3eb71aaec17f3b2d4e158ab8d29442799352a1",
-      "size": 90368,
-      "treeHash": "2854f66e16aab9011062507df186e2bd532a5c62511fdd97fd198311c85cb209",
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwfishing-14e222b4add0.zip",
+      "sha256": "48468dfc96568319e4da4553f0a8c209b6ea0a60ea77cbc2471f7c39aea6246e",
+      "size": 90450,
+      "treeHash": "14e222b4add01f3a7d9f4dfc434988ce3931f605a659e2896eee9ed390ecb8f9",
       "summary": "The fishing guide: a costed 0-110 route, and every fish, bait, rod and spot at this server's real rates."
     },
     {
@@ -186,21 +186,21 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.24.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-6f59f4aa51f2.zip",
-      "sha256": "6899ef3754962fad39234be0ea663ccf59df0f113e81ae2c72a3a806f14f9917",
-      "size": 109560,
-      "treeHash": "6f59f4aa51f2e7d4692cbd6355de75ce107e8819da01d3adaa3c081b45431c68",
-      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the augment Exchange with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
+      "version": "1.26.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-021c0a1fe201.zip",
+      "sha256": "069264a268ec6b140a1dded3cc99654816fda9de4656739caa6d5572137e1aa8",
+      "size": 116185,
+      "treeHash": "021c0a1fe20186eda4510f398a1e1bb84cda65ceeb381cd19cd76fb2fe8f881e",
+      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.12.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-fd26f804a185.zip",
-      "sha256": "dea7eebe2c131b85d31d11e67c7fdd0950ffba14807bb124841d2dcd3b6be8b4",
-      "size": 62047,
-      "treeHash": "fd26f804a1854bdf4c2d6502476f208a5bcd9834465f43dca973bc866a94ca96",
+      "version": "1.13.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-e2cfc2d4fa3a.zip",
+      "sha256": "6b193719cee66e883568eb5ac4e367aa66fb4af9e85b7f7a0e2bae2da6b686a1",
+      "size": 62094,
+      "treeHash": "e2cfc2d4fa3a2a01891b19c69012e9405732e0e57fa4c3489a97069e30267263",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
