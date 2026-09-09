@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.08",
-  "publishedAt": "2026-09-08T05:05:09.481Z",
+  "contentVersion": "2026.09.09",
+  "publishedAt": "2026-09-09T00:34:18.324Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.25.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-5890ea5d7a33.zip",
-      "sha256": "6da51d02174456f794f15dcc7baaae22ed6971c941ae52949cf154f8dbdc9efa",
-      "size": 86435,
-      "treeHash": "5890ea5d7a33fcf7df33b356f671405eb989643e59dfad9efb2cc7bfdcb51709",
+      "version": "1.26.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-d71d99bc7c32.zip",
+      "sha256": "7912ed2d9e718cbd4e7a53ee0df6a13ebdb98fa484a526400d0e34671e8337ff",
+      "size": 90128,
+      "treeHash": "d71d99bc7c327e4c258ee5571b45ccf1a74f9a650ab91de596d926e542bcef10",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.26.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-021c0a1fe201.zip",
-      "sha256": "069264a268ec6b140a1dded3cc99654816fda9de4656739caa6d5572137e1aa8",
-      "size": 116185,
-      "treeHash": "021c0a1fe20186eda4510f398a1e1bb84cda65ceeb381cd19cd76fb2fe8f881e",
+      "version": "1.27.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-3f0c90fa9679.zip",
+      "sha256": "163080bddad605206418424c2ed5e7cd67ef9b3f5b37a3be0224758dd1da83e4",
+      "size": 116546,
+      "treeHash": "3f0c90fa96796bc796c0737b9f8980daf453ae969024199fa5d73da15e0c7304",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
@@ -226,12 +226,12 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.7.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-1060cf747c3d.zip",
-      "sha256": "b893411870d8ba5307307db78d614690d1e20ba4c151b81ae33a7e53521e5556",
-      "size": 68279,
-      "treeHash": "1060cf747c3dfba5c86f8e1c623fbd01d769bde67a64f882eb5d54f431015c9f",
-      "summary": "Squad roster window for DriftwoodXI -- add and remove members by clicking, with live buffs on summoned members."
+      "version": "1.8.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-48848d6e7ccf.zip",
+      "sha256": "a7139a1e186275d5327637c7f6f3dbd8d4d0c4a26428d7797aaf5853afdacdd5",
+      "size": 82595,
+      "treeHash": "48848d6e7ccfed0ec58d5b222b7d9652c0661304e19d81adebef0086b00323d9",
+      "summary": "Squad roster window for DriftwoodXI -- four tabs over your own characters: Main, States, Stats and Exp."
     },
     {
       "id": "dwtoau",
