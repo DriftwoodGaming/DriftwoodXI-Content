@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.09",
-  "publishedAt": "2026-09-09T00:34:18.324Z",
+  "publishedAt": "2026-09-09T19:05:37.397Z",
   "packages": [
     {
       "id": "dwah",
@@ -126,11 +126,11 @@
     {
       "id": "dwmacro",
       "kind": "ashita-addon",
-      "version": "2.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-207c36cc2012.zip",
-      "sha256": "b883668cc3d42d2f1a3ffd3558054c79cbbae5de13e927bbbbf7d3cf0e70f079",
-      "size": 30325,
-      "treeHash": "207c36cc2012caf734b37e6fcaa9997e6a9559b0c7f766f8aa329fbe59d76cb7",
+      "version": "2.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-55f71f2c218f.zip",
+      "sha256": "df37e9c5f7ea2380d786b443081b06343530ad885733ddca224766dde0a89ff2",
+      "size": 31783,
+      "treeHash": "55f71f2c218f22f5112f994fb27e7b807b5d03b3ebe807bc93e03c3b2aeba5c7",
       "summary": "Stops the client losing your macro book and set when you zone or log back in."
     },
     {
@@ -146,21 +146,21 @@
     {
       "id": "dwmerits",
       "kind": "ashita-addon",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-335796d4d6d4.zip",
-      "sha256": "49e78d1bf4cb5de4a8deaa27bfca0eb1117d48daada3843d4b39915302df5b69",
-      "size": 49912,
-      "treeHash": "335796d4d6d4310fd6aeabe29704eb02d012a8bea29d4760e51dc0c326d66ecd",
+      "version": "1.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerits-e4a4c2f837d5.zip",
+      "sha256": "5eb46d7d6ef5d990b3cd225cfd5b90402b0fca95c8bb04118e9f9343f43c3d21",
+      "size": 50484,
+      "treeHash": "e4a4c2f837d57063582e9d8bfb1ea33bbda405867633cdc93c9a687472842ce2",
       "summary": "Merit sheet for DriftwoodXI: true totals, raise/lower past the stock menu, job points, and Ascension."
     },
     {
       "id": "dwnemesis",
       "kind": "ashita-addon",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-0bade04b9017.zip",
-      "sha256": "d68d29c49ebbcb9512779439b99c28204dedd26a8d735d129ac06c006af18a5d",
-      "size": 44287,
-      "treeHash": "0bade04b90177441cc5b0d74481ae757073f8f49ffdc944910df67ff9c18d299",
+      "version": "1.3.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-8d24d4b84948.zip",
+      "sha256": "e0e8aec2471c59f94d126bd80669692291d50ac3f794299ecd663e538fcf5267",
+      "size": 45252,
+      "treeHash": "8d24d4b84948436048d83f8f1731f91e5123a84241e3d8a1ffedadc06c3d1c73",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
@@ -172,6 +172,16 @@
       "size": 51279,
       "treeHash": "95b0dad6e26a4ceb673ed741c191592ae22ad3c1f4530e9863aed77de1cda8b3",
       "summary": "Damage and healing parser for DriftwoodXI. /parse or /dwparse."
+    },
+    {
+      "id": "dwpolitics",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-985e99fab7f9.zip",
+      "sha256": "c7446420ae1a7a933555825946455a7df2e37d5fc2849e30530f0908be7ce9f7",
+      "size": 25587,
+      "treeHash": "985e99fab7f96fc1aa75e7874687f48ee4e25cbe49bdc0abf3b89fa36a698e7b",
+      "summary": "DriftwoodXI Politics: run for a seat, vote, pledge, govern, read the Chronicle."
     },
     {
       "id": "dwport",
@@ -186,11 +196,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.27.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-3f0c90fa9679.zip",
-      "sha256": "163080bddad605206418424c2ed5e7cd67ef9b3f5b37a3be0224758dd1da83e4",
-      "size": 116546,
-      "treeHash": "3f0c90fa96796bc796c0737b9f8980daf453ae969024199fa5d73da15e0c7304",
+      "version": "1.27.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-a7ac583982a0.zip",
+      "sha256": "3ff4e787828601bcb52b887317075dead153627bc8a1a433993f3792c9b03bcc",
+      "size": 117356,
+      "treeHash": "a7ac583982a06edd04e43bee539633a0a95f1e035afb0e83f8eab4c4b51519fa",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
     },
     {
@@ -226,21 +236,21 @@
     {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.8.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-48848d6e7ccf.zip",
-      "sha256": "a7139a1e186275d5327637c7f6f3dbd8d4d0c4a26428d7797aaf5853afdacdd5",
-      "size": 82595,
-      "treeHash": "48848d6e7ccfed0ec58d5b222b7d9652c0661304e19d81adebef0086b00323d9",
+      "version": "1.8.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-61b16ca56f06.zip",
+      "sha256": "a9f5ae6a2803def0928b18eb74eb38d0b3ad6d7b884016d6877830b3caa90ebb",
+      "size": 83194,
+      "treeHash": "61b16ca56f06e0bc29a520797c364c7b6aa143c76f8611fd3920a3e3c8918044",
       "summary": "Squad roster window for DriftwoodXI -- four tabs over your own characters: Main, States, Stats and Exp."
     },
     {
       "id": "dwtoau",
       "kind": "ashita-addon",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-a36791eb1b64.zip",
-      "sha256": "b3a3ed447c4f36a991b197fc4a779784f4e06628f6067eee71122f38e14012a9",
-      "size": 69733,
-      "treeHash": "a36791eb1b64512b3f6c8fb1832d46d2486fab8c2bf77e2b8d01713c1d81996b",
+      "version": "1.3.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-66fee47d0e18.zip",
+      "sha256": "922a260fca5808fd4aa5e5ece00252512928c91684c0d8d673386016c758c230",
+      "size": 70409,
+      "treeHash": "66fee47d0e18f0b66593b4718e763fffecd1990a5bb61af0ff423b3199944a40",
       "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
