@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.09",
-  "publishedAt": "2026-09-09T19:05:37.397Z",
+  "contentVersion": "2026.09.10",
+  "publishedAt": "2026-09-10T18:28:18.415Z",
   "packages": [
     {
       "id": "dwah",
@@ -156,11 +156,11 @@
     {
       "id": "dwnemesis",
       "kind": "ashita-addon",
-      "version": "1.3.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-8d24d4b84948.zip",
-      "sha256": "e0e8aec2471c59f94d126bd80669692291d50ac3f794299ecd663e538fcf5267",
-      "size": 45252,
-      "treeHash": "8d24d4b84948436048d83f8f1731f91e5123a84241e3d8a1ffedadc06c3d1c73",
+      "version": "1.3.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-da3fad304e9f.zip",
+      "sha256": "b6fcee36eafb28cfa992a97c84b85cb679d1abeed2d6a17d6494682937e02830",
+      "size": 51945,
+      "treeHash": "da3fad304e9f016c025357783fed182329c4900e1aa302a115ddf72fc21ed7a8",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
@@ -206,11 +206,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.13.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-e2cfc2d4fa3a.zip",
-      "sha256": "6b193719cee66e883568eb5ac4e367aa66fb4af9e85b7f7a0e2bae2da6b686a1",
-      "size": 62094,
-      "treeHash": "e2cfc2d4fa3a2a01891b19c69012e9405732e0e57fa4c3489a97069e30267263",
+      "version": "1.14.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-5436ec84fd47.zip",
+      "sha256": "0bea9796ffa8b7e2609bfe2346142f87908ec28f2ace75b59b98b351c36698f5",
+      "size": 65050,
+      "treeHash": "5436ec84fd474ef1a7b07ef96766a51b94dd5720a7f183520405cd60dcb9b334",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
