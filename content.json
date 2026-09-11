@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.10",
-  "publishedAt": "2026-09-10T18:28:18.415Z",
+  "contentVersion": "2026.09.11",
+  "publishedAt": "2026-09-11T03:19:35.555Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.26.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-d71d99bc7c32.zip",
-      "sha256": "7912ed2d9e718cbd4e7a53ee0df6a13ebdb98fa484a526400d0e34671e8337ff",
-      "size": 90128,
-      "treeHash": "d71d99bc7c327e4c258ee5571b45ccf1a74f9a650ab91de596d926e542bcef10",
+      "version": "1.27.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-490397bb08bd.zip",
+      "sha256": "c674e04acd9ba4553dfcaed14384c12ed150813d7dc4c8ead949602438f1e582",
+      "size": 95166,
+      "treeHash": "490397bb08bd13cb090d0447a2a85677297fa9e8009391359317eccf45f54785",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-9ce9f3f4ebb3.zip",
-      "sha256": "61a68d2d9a78550c6460421314c4ee5072c137ffe8b1b84456d53c72e97eab40",
-      "size": 54841,
-      "treeHash": "9ce9f3f4ebb3fad845145640a9d4a39e576f0f683aefc923cc7a9bef1614c8ce",
+      "version": "1.4.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-863d5c27222e.zip",
+      "sha256": "ea9d22768918a40c1fa008ee0d92b0178d3b4ea3c0f141b6d1145b59c06a0457",
+      "size": 54902,
+      "treeHash": "863d5c27222ebe59fafaa4a1a8f00e7ecf4856d2f2f5174bca7b537fec313867",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
@@ -206,11 +206,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.14.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-5436ec84fd47.zip",
-      "sha256": "0bea9796ffa8b7e2609bfe2346142f87908ec28f2ace75b59b98b351c36698f5",
-      "size": 65050,
-      "treeHash": "5436ec84fd474ef1a7b07ef96766a51b94dd5720a7f183520405cd60dcb9b334",
+      "version": "1.15.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-ab1a0aff0a76.zip",
+      "sha256": "6514726db33d9a9ffe5e468e76325a184426c16a7dbb86c54e58d840d037c313",
+      "size": 66507,
+      "treeHash": "ab1a0aff0a76d1e52058e523d8e23e9e5a9d8d993130c0fd0460778be681dd60",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
