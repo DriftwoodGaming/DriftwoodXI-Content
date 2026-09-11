@@ -1,8 +1,86 @@
 {
     "schema":  1,
-    "version":  "20260831-1850",
-    "publishedAt":  "2026-08-31T22:51:22.449Z",
-    "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-Ashita-20260831-1850-68fdc3513e4f.zip",
-    "sha256":  "68fdc3513e4f2ca18aa5d65b1a2379efc0e30bf112a4c824eb7061e905b14bfd",
-    "size":  43024557
+    "version":  "20260911-0000",
+    "publishedAt":  "2026-09-11T04:07:53.413Z",
+    "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-Ashita-20260911-0000-da568b6f0f33.zip",
+    "sha256":  "da568b6f0f337a92f63bf82af76ae716d7f3cf7cc00c537b89accd607cc9b4d3",
+    "size":  43556740,
+    "core":  {
+                 "version":  "4.3.2.0",
+                 "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-AshitaCore-4.3.2.0-aaeb7ef49f0d.zip",
+                 "sha256":  "aaeb7ef49f0dacd7f0bf3c4fbadfc00203f8eec7a3ae8c590a72a653bb735772",
+                 "size":  6582697,
+                 "files":  [
+                               {
+                                   "path":  "Ashita.dll",
+                                   "sha256":  "bc5481c4d7d4479f398c204147bd95542c79d16ebf31d802a559fccc6b0da82f",
+                                   "size":  3751424
+                               },
+                               {
+                                   "path":  "Ashita-cli.exe",
+                                   "sha256":  "dae554d0b6b2172b1a5ac1bc7e00ce3ded0ea5dce2b734bc83e6c93248b40dfb",
+                                   "size":  146432
+                               },
+                               {
+                                   "path":  "config/ashita/ashita.datmap.ini",
+                                   "sha256":  "20f3b977c6a2a3286cc87d13c3beffafa4d82fbd252e4f2bbd2443cf1179d865",
+                                   "size":  10839
+                               },
+                               {
+                                   "path":  "config/ashita/ashita.pointers.ini",
+                                   "sha256":  "6f0bf49c36ddf394f0702c11f314abdf4b83d9f343ec1591dd3b3fd4da72a469",
+                                   "size":  7554
+                               },
+                               {
+                                   "path":  "plugins/addons.dll",
+                                   "sha256":  "8836e361543d2fb8acb11e1bf614c82688f2a16623983f3faae97a2bd8c639f8",
+                                   "size":  14285824
+                               },
+                               {
+                                   "path":  "plugins/hardwaremouse.dll",
+                                   "sha256":  "da9f80f3ef44dbb0391ad0cf2f4c63d4755e0162b454c3ea95f29d3ca184f66a",
+                                   "size":  29696
+                               },
+                               {
+                                   "path":  "plugins/minimap.dll",
+                                   "sha256":  "7d6c70c78da7b8f6889224652a1f00af4898e1af4d3325b536b68978a37d3dc9",
+                                   "size":  670720
+                               },
+                               {
+                                   "path":  "plugins/screenshot.dll",
+                                   "sha256":  "9e8725d0e1a5ee14c6883efa3a317eb8fb6b034b9ec592348642547f9283e272",
+                                   "size":  248832
+                               },
+                               {
+                                   "path":  "plugins/thirdparty.dll",
+                                   "sha256":  "a2c03f48097b15fccbb0fa877ad2e47278b378852d851552e540bbe977460488",
+                                   "size":  57856
+                               },
+                               {
+                                   "path":  "plugins/toon.dll",
+                                   "sha256":  "9b035dc71567f22c090f9efb9fa0a0d5d8a5c7bd11d86e5be61b5bc6f4a613a6",
+                                   "size":  568832
+                               },
+                               {
+                                   "path":  "plugins/winefix.dll",
+                                   "sha256":  "e049c06f038e47ee00e586ce69721eaafaac77cb30f802f7a04f0d7bd602409f",
+                                   "size":  29696
+                               },
+                               {
+                                   "path":  "polplugins/extraslots.dll",
+                                   "sha256":  "758219b7e7567d0dbeff9404a16b913219ef183dd88ccd2f2109975b946528fd",
+                                   "size":  23040
+                               },
+                               {
+                                   "path":  "polplugins/quicky.dll",
+                                   "sha256":  "87798790210e30c14cfc39f821ccf6e6c59ea780f9475da831a5327c76a21be7",
+                                   "size":  154624
+                               },
+                               {
+                                   "path":  "polplugins/sandbox.dll",
+                                   "sha256":  "6d39940971c69b655128c84c7a70e475a2826d3b25a65dd182c831dad78258d5",
+                                   "size":  178688
+                               }
+                           ]
+             }
 }
