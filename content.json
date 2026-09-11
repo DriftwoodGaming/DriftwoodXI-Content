@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.11",
-  "publishedAt": "2026-09-11T03:19:35.555Z",
+  "publishedAt": "2026-09-11T22:52:33.274Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.27.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-490397bb08bd.zip",
-      "sha256": "c674e04acd9ba4553dfcaed14384c12ed150813d7dc4c8ead949602438f1e582",
-      "size": 95166,
-      "treeHash": "490397bb08bd13cb090d0447a2a85677297fa9e8009391359317eccf45f54785",
+      "version": "1.28.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-1332d7f451fe.zip",
+      "sha256": "ceb081ccf322261e1eb18ae7cc30cd56948cf4d873fca7127029d932132c217c",
+      "size": 99456,
+      "treeHash": "1332d7f451fe436e09c4eefa08c6c61c3486ea34617a3d53d086d8f4e7583643",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -96,11 +96,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.11.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-a6bde82564ac.zip",
-      "sha256": "d5661791ce6a404815015f3a6946af628072daf2e7bd6736ce088c8408f80ddf",
-      "size": 79328,
-      "treeHash": "a6bde82564acefaf213df95f5a6fe95980896759c03e990ee4b6eacbfc9116ec",
+      "version": "1.12.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-1f9df7ac5a16.zip",
+      "sha256": "f37eb9a72b59c2dad446513f2b8cc47c6aa52dae77e0e89b5f4b1dab76770d76",
+      "size": 80708,
+      "treeHash": "1f9df7ac5a16940663a393fc82a7db45c1177cae0047359aeed6ee2a9a6230bb",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -196,12 +196,12 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.27.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-a7ac583982a0.zip",
-      "sha256": "3ff4e787828601bcb52b887317075dead153627bc8a1a433993f3792c9b03bcc",
-      "size": 117356,
-      "treeHash": "a7ac583982a06edd04e43bee539633a0a95f1e035afb0e83f8eab4c4b51519fa",
-      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, and the Jeweler."
+      "version": "1.28.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-8ea273953dde.zip",
+      "sha256": "f6c487f4f86e59e494141d495252673bcfa1d5bb8fcc420e40cb5bc0d0e49464",
+      "size": 121902,
+      "treeHash": "8ea273953ddee0ef0765a9e6494eb3576c8f70088678fdf13c070a5dc2917cff",
+      "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, and the Special shelf."
     },
     {
       "id": "dwraid",
