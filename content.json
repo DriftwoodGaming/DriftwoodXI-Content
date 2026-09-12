@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.11",
-  "publishedAt": "2026-09-11T22:52:33.274Z",
+  "contentVersion": "2026.09.12",
+  "publishedAt": "2026-09-12T21:41:29.657Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.6.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-e3e7045bb0b6.zip",
-      "sha256": "74a9dd5f98ed5138c72ee10da13ed0975c85786e4ed257201354cf13bc1f806b",
-      "size": 76450,
-      "treeHash": "e3e7045bb0b6760b44b0a255c62933a6d2197d2cb1d6a09883ea1a488b0cfc4f",
+      "version": "1.7.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-837b6f8b77cb.zip",
+      "sha256": "3717d82a211c527baf13bc9bbeb3a3359a2b726344a19ef042aedb4f8535571c",
+      "size": 79994,
+      "treeHash": "837b6f8b77cb4f1b322b3d0b43ecc4a8c95433fd59ce5fb412ed0ea703729900",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.28.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-1332d7f451fe.zip",
-      "sha256": "ceb081ccf322261e1eb18ae7cc30cd56948cf4d873fca7127029d932132c217c",
-      "size": 99456,
-      "treeHash": "1332d7f451fe436e09c4eefa08c6c61c3486ea34617a3d53d086d8f4e7583643",
+      "version": "1.29.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-017c110bd741.zip",
+      "sha256": "1062080ecf70c73e7edc7b81456417dfb09dfb4ee5ffbd684c8ec87495eaf6de",
+      "size": 100352,
+      "treeHash": "017c110bd7417945b0ca399661a3253226703e0c1150e84e65085a8cc0de5e82",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -56,11 +56,11 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.7.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-5b1d329b64a1.zip",
-      "sha256": "9e80d0d0e61d311f9cb5f56c11daac42c5a6194856358b2634284875b11e2e17",
-      "size": 211887,
-      "treeHash": "5b1d329b64a1738ec7c0e6f928d09cfe530a36f53bceddd3de7dea2d45e1dbba",
+      "version": "1.7.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-8bcdc320cfc2.zip",
+      "sha256": "096970c3bd6e53b58a94872b5764fa9efe1fbb7521aa2c43222d7cf3ede31353",
+      "size": 212209,
+      "treeHash": "8bcdc320cfc29c01b811ea7f72b38393fe21dca921efd7d324c46b669fc1a9b7",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -96,11 +96,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.12.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-1f9df7ac5a16.zip",
-      "sha256": "f37eb9a72b59c2dad446513f2b8cc47c6aa52dae77e0e89b5f4b1dab76770d76",
-      "size": 80708,
-      "treeHash": "1f9df7ac5a16940663a393fc82a7db45c1177cae0047359aeed6ee2a9a6230bb",
+      "version": "1.14.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-edc6ddda1315.zip",
+      "sha256": "73cf3fda119d86f0281c6eba7691eb13763c80ac0ce25d6b3e8d4704bab695e0",
+      "size": 82479,
+      "treeHash": "edc6ddda1315b7ad04d5b713050bc1e57c4c19631ba5f91a8b8c691eda469633",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -126,11 +126,11 @@
     {
       "id": "dwmacro",
       "kind": "ashita-addon",
-      "version": "2.2.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-55f71f2c218f.zip",
-      "sha256": "df37e9c5f7ea2380d786b443081b06343530ad885733ddca224766dde0a89ff2",
-      "size": 31783,
-      "treeHash": "55f71f2c218f22f5112f994fb27e7b807b5d03b3ebe807bc93e03c3b2aeba5c7",
+      "version": "2.3.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmacro-8fbedd7d959e.zip",
+      "sha256": "8c1112d45da2aa59ad83e1ba2a02f85bc89ede30683d0749e1a1652b2b056b67",
+      "size": 37560,
+      "treeHash": "8fbedd7d959ee1cfef0e389552b7d6cf8ca60fa24ea713165ebf4a08b0d487e1",
       "summary": "Stops the client losing your macro book and set when you zone or log back in."
     },
     {
@@ -196,11 +196,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.28.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-8ea273953dde.zip",
-      "sha256": "f6c487f4f86e59e494141d495252673bcfa1d5bb8fcc420e40cb5bc0d0e49464",
-      "size": 121902,
-      "treeHash": "8ea273953ddee0ef0765a9e6494eb3576c8f70088678fdf13c070a5dc2917cff",
+      "version": "1.30.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-2e5411adfc2e.zip",
+      "sha256": "08f90647c349a6a45e2c9e4f5a6473e889fc95e77bec43206bd51967cac17191",
+      "size": 124534,
+      "treeHash": "2e5411adfc2e536baece31c697a8686232175a58652adaa5e1919402edb44d7f",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, and the Special shelf."
     },
     {
@@ -266,11 +266,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.13.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-024c5d15410a.zip",
-      "sha256": "2d294ad00ee8ea797ef8486f0572f745771ed46c1ecbab1a76746f9a1e9be129",
-      "size": 100184,
-      "treeHash": "024c5d15410a26d06ab664249abb1278e24760be578a1e814d7175144ba3fd9b",
+      "version": "1.14.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-743498390be9.zip",
+      "sha256": "2c1489a7f4b0aebdc6289ce23fdd589f1a6e410f8b3943bd951c5116529fa3a5",
+      "size": 101090,
+      "treeHash": "743498390be9eba704b38db0961a535cfc57e75fa7b2d2d2b06847ae34d43b38",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
