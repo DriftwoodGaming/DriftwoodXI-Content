@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.12",
-  "publishedAt": "2026-09-12T21:41:29.657Z",
+  "contentVersion": "2026.09.13",
+  "publishedAt": "2026-09-13T04:47:24.267Z",
   "packages": [
     {
       "id": "dwah",
@@ -36,11 +36,11 @@
     {
       "id": "dwcon",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-f26c24f2f521.zip",
-      "sha256": "ec6e59c2322db67710daffb631db893b174603dc16f01b6a413011a46b5d0583",
-      "size": 45819,
-      "treeHash": "f26c24f2f521716e131b79315c966aee5a81e1a02b6d143d1c62ff007f0de650",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-77b2f1258a76.zip",
+      "sha256": "d3a314e5b191bea4a74be42857e679a7ca5c285b9e97eeff0f3746b4106f403b",
+      "size": 52532,
+      "treeHash": "77b2f1258a76aeff6e1cb18a4ebd448b50efb3455abedff473030ace15deefa4",
       "summary": "Con pearls: every nearby enemy's /check difficulty and level, at a glance."
     },
     {
@@ -96,11 +96,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.14.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-edc6ddda1315.zip",
-      "sha256": "73cf3fda119d86f0281c6eba7691eb13763c80ac0ce25d6b3e8d4704bab695e0",
-      "size": 82479,
-      "treeHash": "edc6ddda1315b7ad04d5b713050bc1e57c4c19631ba5f91a8b8c691eda469633",
+      "version": "1.14.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-6e89c2cbd459.zip",
+      "sha256": "61deb72af8a0f7d905eddcedcc5da0c50ddc20644f182efd110e4ba38b45072a",
+      "size": 84554,
+      "treeHash": "6e89c2cbd4599f71079f24c9c5e4b3d6899130b954b6ac8a1c2a92917a59fc46",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -156,11 +156,11 @@
     {
       "id": "dwnemesis",
       "kind": "ashita-addon",
-      "version": "1.3.3",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-da3fad304e9f.zip",
-      "sha256": "b6fcee36eafb28cfa992a97c84b85cb679d1abeed2d6a17d6494682937e02830",
-      "size": 51945,
-      "treeHash": "da3fad304e9f016c025357783fed182329c4900e1aa302a115ddf72fc21ed7a8",
+      "version": "1.4.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-d581c486eba1.zip",
+      "sha256": "53bf49b09411b6bb61b1cc66243bca6db453ecf51d54f7cde2d08d2f577a9cd7",
+      "size": 51643,
+      "treeHash": "d581c486eba15e878194feabe69dcb39153c2f17409e47f7e1ee2a0f2dd31388",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
@@ -196,11 +196,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.30.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-2e5411adfc2e.zip",
-      "sha256": "08f90647c349a6a45e2c9e4f5a6473e889fc95e77bec43206bd51967cac17191",
-      "size": 124534,
-      "treeHash": "2e5411adfc2e536baece31c697a8686232175a58652adaa5e1919402edb44d7f",
+      "version": "1.31.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-303b587f1ec0.zip",
+      "sha256": "5510673ecee8e8b7677bcee62018c9d912d0c8ea2f7ed184662bdbc794f26872",
+      "size": 124633,
+      "treeHash": "303b587f1ec04f8cccb278086f456f639eb81d79c286e2e0eb3e888b946b0393",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, and the Special shelf."
     },
     {
