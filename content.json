@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.14",
-  "publishedAt": "2026-09-14T02:42:11.494Z",
+  "publishedAt": "2026-09-14T20:59:40.665Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.29.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-017c110bd741.zip",
-      "sha256": "1062080ecf70c73e7edc7b81456417dfb09dfb4ee5ffbd684c8ec87495eaf6de",
-      "size": 100352,
-      "treeHash": "017c110bd7417945b0ca399661a3253226703e0c1150e84e65085a8cc0de5e82",
+      "version": "1.30.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-4014db6c2a1c.zip",
+      "sha256": "455e74a084b2f1b9a00e831291d823ca14d5eb77b7d0d810dfad09d3b1d1c6f8",
+      "size": 114641,
+      "treeHash": "4014db6c2a1c1128c11813b7e731aa2b398feaa6f2987cdb5e38e13aaca0b537",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -116,11 +116,11 @@
     {
       "id": "dwleaderboard",
       "kind": "ashita-addon",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-e6abb8e6496e.zip",
-      "sha256": "34dee6216d08bc65b7585d07ba74b19b39e2e2c77f316224170308b42164b0a6",
-      "size": 33514,
-      "treeHash": "e6abb8e6496e4c31fb3f1e170a0adab20a9bdde1bbd8defe2fb1861d821352a2",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-0f6aa8a3a7c9.zip",
+      "sha256": "d04cc769c5c865f3070c3ab4fd1ec397e8f38795bdf37b501599879070c1d0f6",
+      "size": 34711,
+      "treeHash": "0f6aa8a3a7c946de0b7a3e3ff9095d5d9931ec6cb89daaa7b31a0d8f7f62e25f",
       "summary": "The DriftwoodXI leaderboards: job levels, gil, kills, no-death streaks, storage, crafts, market deeds."
     },
     {
@@ -176,11 +176,11 @@
     {
       "id": "dwpolitics",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-113b7a2e1e57.zip",
-      "sha256": "555b60d5d9bb50e95be276ee10d4cd71f53f01c64f464a3935ef7f2e8809fb8e",
-      "size": 25890,
-      "treeHash": "113b7a2e1e57199b9b76d264f43e554c3e9efea9f144e59e2571a04f25cd69a5",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-b4a6690c5a25.zip",
+      "sha256": "7c8a03032961000d41e2ef7898d26b71080116f71c708205a62e57f6c2e2aee1",
+      "size": 33993,
+      "treeHash": "b4a6690c5a2586ac7907b5b4290a9603a3827acf90346bb49e836587615953a7",
       "summary": "DriftwoodXI Politics: run for a seat, vote, pledge, govern, read the Chronicle."
     },
     {
@@ -206,11 +206,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.16.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-8eaa8e644259.zip",
-      "sha256": "be7f546ba77ad18206ff94881f63cb99f1d7a1f559424602ab55c53fa1603b4f",
-      "size": 67270,
-      "treeHash": "8eaa8e64425963507d0eb111c11516e1f02e8de2cc76aeb3cf9e2040ebdf001a",
+      "version": "1.18.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-816b142554cf.zip",
+      "sha256": "880c36e62fad0076d6d95a6724dc6067d9e4efe7bc93f8573a10b14a20594a83",
+      "size": 74523,
+      "treeHash": "816b142554cf14863595145f34482440bdd8a89e910080688926af38e40b880f",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
@@ -266,11 +266,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.14.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-743498390be9.zip",
-      "sha256": "2c1489a7f4b0aebdc6289ce23fdd589f1a6e410f8b3943bd951c5116529fa3a5",
-      "size": 101090,
-      "treeHash": "743498390be9eba704b38db0961a535cfc57e75fa7b2d2d2b06847ae34d43b38",
+      "version": "1.15.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-880610fcb5de.zip",
+      "sha256": "1f47564b438fb1264930f0cbf3fb7b5316d95aa9ebd7063fc71d25a9739d782f",
+      "size": 112883,
+      "treeHash": "880610fcb5de9a5878453b3f2cce205a0a720250f1d2277b631ef5ea8daff1c4",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
