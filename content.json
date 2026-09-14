@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.13",
-  "publishedAt": "2026-09-13T04:47:24.267Z",
+  "contentVersion": "2026.09.14",
+  "publishedAt": "2026-09-14T02:42:11.494Z",
   "packages": [
     {
       "id": "dwah",
@@ -116,11 +116,11 @@
     {
       "id": "dwleaderboard",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-dc3fe46b9db4.zip",
-      "sha256": "f6caba925bc568e85b0324cb7ff2fb15556c12504caa9822f603398165c16447",
-      "size": 33323,
-      "treeHash": "dc3fe46b9db4859de7011593f833486aae518d758ee7b67fdb79cc934d32b1a4",
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwleaderboard-e6abb8e6496e.zip",
+      "sha256": "34dee6216d08bc65b7585d07ba74b19b39e2e2c77f316224170308b42164b0a6",
+      "size": 33514,
+      "treeHash": "e6abb8e6496e4c31fb3f1e170a0adab20a9bdde1bbd8defe2fb1861d821352a2",
       "summary": "The DriftwoodXI leaderboards: job levels, gil, kills, no-death streaks, storage, crafts, market deeds."
     },
     {
@@ -176,11 +176,11 @@
     {
       "id": "dwpolitics",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-985e99fab7f9.zip",
-      "sha256": "c7446420ae1a7a933555825946455a7df2e37d5fc2849e30530f0908be7ce9f7",
-      "size": 25587,
-      "treeHash": "985e99fab7f96fc1aa75e7874687f48ee4e25cbe49bdc0abf3b89fa36a698e7b",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-113b7a2e1e57.zip",
+      "sha256": "555b60d5d9bb50e95be276ee10d4cd71f53f01c64f464a3935ef7f2e8809fb8e",
+      "size": 25890,
+      "treeHash": "113b7a2e1e57199b9b76d264f43e554c3e9efea9f144e59e2571a04f25cd69a5",
       "summary": "DriftwoodXI Politics: run for a seat, vote, pledge, govern, read the Chronicle."
     },
     {
@@ -206,11 +206,11 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.15.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-ab1a0aff0a76.zip",
-      "sha256": "6514726db33d9a9ffe5e468e76325a184426c16a7dbb86c54e58d840d037c313",
-      "size": 66507,
-      "treeHash": "ab1a0aff0a76d1e52058e523d8e23e9e5a9d8d993130c0fd0460778be681dd60",
+      "version": "1.16.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-8eaa8e644259.zip",
+      "sha256": "be7f546ba77ad18206ff94881f63cb99f1d7a1f559424602ab55c53fa1603b4f",
+      "size": 67270,
+      "treeHash": "8eaa8e64425963507d0eb111c11516e1f02e8de2cc76aeb3cf9e2040ebdf001a",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
