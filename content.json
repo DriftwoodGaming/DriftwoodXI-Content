@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.14",
-  "publishedAt": "2026-09-14T23:02:57.044Z",
+  "contentVersion": "2026.09.16",
+  "publishedAt": "2026-09-16T00:13:15.356Z",
   "packages": [
     {
       "id": "dwah",
@@ -176,21 +176,21 @@
     {
       "id": "dwpolitics",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-b4a6690c5a25.zip",
-      "sha256": "7c8a03032961000d41e2ef7898d26b71080116f71c708205a62e57f6c2e2aee1",
-      "size": 33993,
-      "treeHash": "b4a6690c5a2586ac7907b5b4290a9603a3827acf90346bb49e836587615953a7",
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-f84b10792862.zip",
+      "sha256": "01fcc594b523381e674b18033209e98e97cde3efbdf0526263bf30a96bc21e53",
+      "size": 51166,
+      "treeHash": "f84b10792862c78e94f0bc9d8aa1b84db380319764a2ec07a21e0ad959c026f3",
       "summary": "DriftwoodXI Politics: run for a seat, vote, pledge, govern, read the Chronicle."
     },
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.4.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-863d5c27222e.zip",
-      "sha256": "ea9d22768918a40c1fa008ee0d92b0178d3b4ea3c0f141b6d1145b59c06a0457",
-      "size": 54902,
-      "treeHash": "863d5c27222ebe59fafaa4a1a8f00e7ecf4856d2f2f5174bca7b537fec313867",
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-4d9303e5853a.zip",
+      "sha256": "d3408ee580ba0cb05c6998bae8bd7375151a0cfeea36f83f1696396a9429c6a2",
+      "size": 60340,
+      "treeHash": "4d9303e5853a15dda349dad9959d41b5da7060beeb973902840372dc7308a2fe",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
