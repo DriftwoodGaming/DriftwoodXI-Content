@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.16",
-  "publishedAt": "2026-09-16T00:13:15.356Z",
+  "publishedAt": "2026-09-16T17:08:52.315Z",
   "packages": [
     {
       "id": "dwah",
@@ -136,11 +136,11 @@
     {
       "id": "dwmerc",
       "kind": "ashita-addon",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerc-fdfdc3529ac5.zip",
-      "sha256": "1bd49d797043ad13712016c94554d7adc6f99805599249fea8d29cc5b97bb8cc",
-      "size": 63922,
-      "treeHash": "fdfdc3529ac5838442c9c7d56c8ef8567837ef9fad1a8ac060892636b628f27c",
+      "version": "1.4.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwmerc-a574bf715f92.zip",
+      "sha256": "e5a68b9fa940187949cb8ed424d514f92cbfd93d07cc8d8468126a23b8d9481e",
+      "size": 70255,
+      "treeHash": "a574bf715f929cab592097d1fccf0291e9140dac24c62852b96ba1cf0e807d1d",
       "summary": "The mercenary board storefront for DriftwoodXI."
     },
     {
@@ -176,11 +176,11 @@
     {
       "id": "dwpolitics",
       "kind": "ashita-addon",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-f84b10792862.zip",
-      "sha256": "01fcc594b523381e674b18033209e98e97cde3efbdf0526263bf30a96bc21e53",
-      "size": 51166,
-      "treeHash": "f84b10792862c78e94f0bc9d8aa1b84db380319764a2ec07a21e0ad959c026f3",
+      "version": "1.4.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwpolitics-a07890b5613b.zip",
+      "sha256": "fa33b6a497f6a5d6fa74f12738ff1436b8bd5905502ce1292702931693b2a722",
+      "size": 52361,
+      "treeHash": "a07890b5613bfed74615e12d35e5da0729e616d91fc38d9c9a8a1f1e65788835",
       "summary": "DriftwoodXI Politics: run for a seat, vote, pledge, govern, read the Chronicle."
     },
     {
@@ -226,11 +226,11 @@
     {
       "id": "dwscan",
       "kind": "ashita-addon",
-      "version": "1.4.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-39dede3237e2.zip",
-      "sha256": "fa414238ca6b42798e898eb0a6bc74c54c963856c0203e8195d0655d32c4ae02",
-      "size": 67229,
-      "treeHash": "39dede3237e2b24b02264d25980ca483777a1d6e413243586fef06ed49a1b814",
+      "version": "1.5.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwscan-91719d6eb6b6.zip",
+      "sha256": "8716ad3b9393c0903f928a777246c123a7941298541d8828893d15b871ff390f",
+      "size": 68546,
+      "treeHash": "91719d6eb6b691cda3ff6ddd927c90f9db0ad7d1f97e67f2de911a144da19c18",
       "summary": "Scan your target: level, drops with this server's real rates, resistances, aggro and quests."
     },
     {
