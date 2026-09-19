@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.18",
-  "publishedAt": "2026-09-18T16:32:33.712Z",
+  "contentVersion": "2026.09.19",
+  "publishedAt": "2026-09-19T15:34:23.101Z",
   "packages": [
     {
       "id": "dwah",
@@ -96,11 +96,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.14.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-6e89c2cbd459.zip",
-      "sha256": "61deb72af8a0f7d905eddcedcc5da0c50ddc20644f182efd110e4ba38b45072a",
-      "size": 84554,
-      "treeHash": "6e89c2cbd4599f71079f24c9c5e4b3d6899130b954b6ac8a1c2a92917a59fc46",
+      "version": "1.15.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-cbedb707e79f.zip",
+      "sha256": "8b1793b477d0ab7c2f516727357e7281472fc1ce0e89733283a00fc9980d40c4",
+      "size": 101081,
+      "treeHash": "cbedb707e79ff2effe196d67d78dbe2cded583f749fef0e2d72bf824dbe29485",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -266,11 +266,11 @@
     {
       "id": "dwunleashed",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwunleashed-e46233780ce5.zip",
-      "sha256": "f8feef714af7bf6c202dc426a6baabe30f068764b4613c242da6257fd09f41d7",
-      "size": 30540,
-      "treeHash": "e46233780ce5588151f18e659ed7424eab7ec75e6faeb051dc824174d2201972",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwunleashed-9fda29b49aed.zip",
+      "sha256": "1875024b46c4e2b775888ed908cf568743747d375bca100a0452a2a29989e91c",
+      "size": 30549,
+      "treeHash": "9fda29b49aed85c9428baa5b7649b5c5629f08a536f9cb4898d7e70528a0b748",
       "summary": "DriftwoodXI Unleashed: the wandering world boss -- where it stands, how long until it wakes, and who answered the last five."
     },
     {
