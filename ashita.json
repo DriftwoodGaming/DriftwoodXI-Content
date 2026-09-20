@@ -1,24 +1,24 @@
 {
     "schema":  1,
-    "version":  "20260911-0000",
-    "publishedAt":  "2026-09-11T04:07:53.413Z",
-    "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-Ashita-20260911-0000-da568b6f0f33.zip",
-    "sha256":  "da568b6f0f337a92f63bf82af76ae716d7f3cf7cc00c537b89accd607cc9b4d3",
-    "size":  43556740,
+    "version":  "20260920-1100",
+    "publishedAt":  "2026-09-20T14:51:14.561Z",
+    "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-Ashita-20260920-1100-d9a4db94ab0c.zip",
+    "sha256":  "d9a4db94ab0c40be327ca802385d91ebf27888de8c9381ec20747bfa83419a00",
+    "size":  43556732,
     "core":  {
-                 "version":  "4.3.2.0",
-                 "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-AshitaCore-4.3.2.0-aaeb7ef49f0d.zip",
-                 "sha256":  "aaeb7ef49f0dacd7f0bf3c4fbadfc00203f8eec7a3ae8c590a72a653bb735772",
-                 "size":  6582697,
+                 "version":  "4.3.2.1",
+                 "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-AshitaCore-4.3.2.1-7f925cd38378.zip",
+                 "sha256":  "7f925cd38378b57975520616ebda0b99a4ca6a1ce62b7793261f0a03c992281e",
+                 "size":  6582689,
                  "files":  [
                                {
                                    "path":  "Ashita.dll",
-                                   "sha256":  "bc5481c4d7d4479f398c204147bd95542c79d16ebf31d802a559fccc6b0da82f",
+                                   "sha256":  "a9ee596ee10efde43b935445e24db6ee65eb530b3cdc480ac7813378cb84b6d6",
                                    "size":  3751424
                                },
                                {
                                    "path":  "Ashita-cli.exe",
-                                   "sha256":  "dae554d0b6b2172b1a5ac1bc7e00ce3ded0ea5dce2b734bc83e6c93248b40dfb",
+                                   "sha256":  "58662243aa93a5db4042a6c83e9a556084de8cde073ed9fe68fa9c1e1b7e9d6d",
                                    "size":  146432
                                },
                                {
