@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "20260920-1100",
-    "publishedAt":  "2026-09-20T14:51:14.561Z",
-    "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-Ashita-20260920-1100-d9a4db94ab0c.zip",
-    "sha256":  "d9a4db94ab0c40be327ca802385d91ebf27888de8c9381ec20747bfa83419a00",
-    "size":  43556732,
+    "version":  "20260920-1151",
+    "publishedAt":  "2026-09-20T15:57:04.643Z",
+    "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-Ashita-20260920-1151-b09080a215bb.zip",
+    "sha256":  "b09080a215bb57e6fb29e5983331f13beb7c2435062c3cfd0a0953e08a45ec95",
+    "size":  43748547,
     "core":  {
                  "version":  "4.3.2.1",
                  "url":  "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/bundles/DriftwoodXI-AshitaCore-4.3.2.1-7f925cd38378.zip",
