@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.20",
-  "publishedAt": "2026-09-20T15:48:06.862Z",
+  "contentVersion": "2026.09.21",
+  "publishedAt": "2026-09-21T16:38:42.383Z",
   "packages": [
     {
       "id": "dwah",
@@ -106,21 +106,21 @@
     {
       "id": "dwhub",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-944e72abba2a.zip",
-      "sha256": "b39bb3f377f7d4243f9d6d38778104a7088bf58e97dfc32841e8a7d92870ffe8",
-      "size": 13880,
-      "treeHash": "944e72abba2aa731be6fbbedb47b6cdd8a408bef7e58fb0c2e310c6dfcda620e",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-4ef44fa1c0dc.zip",
+      "sha256": "ac4f0aa96cd7378b8795f31692dfd325a1faaa0124292a2c5025d05ccae3ae7c",
+      "size": 13957,
+      "treeHash": "4ef44fa1c0dc95dcd4473dfb06ee06b72ddf5fbcbe16bc6b4405de77c1a1dfa3",
       "summary": "The DriftwoodXI front door: every server addon in one window -- what it is for, a button that opens it, and a button that loads it when it is switched off."
     },
     {
       "id": "dwjobs",
       "kind": "ashita-addon",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwjobs-f54fbfd40d24.zip",
-      "sha256": "4940059b4b5ddd0594d658f44cf1d434150b80b256db2da4c72b9306d1e04e95",
-      "size": 38654,
-      "treeHash": "f54fbfd40d249f68d0f82bfe52ee6e9def2bb5fea3caa04d73387e4c17a93c1f",
+      "version": "1.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwjobs-87c9ccaa0355.zip",
+      "sha256": "353458b3c815a02c6573f56d122e41cfc0a7bc155c5f2a668de7c1bdfa5288dd",
+      "size": 38698,
+      "treeHash": "87c9ccaa035593f35a9b387e9ea0d55924c6b071f4841f75720e64a1356671bf",
       "summary": "Party job window for DriftwoodXI -- change everyone's main and sub jobs by clicking."
     },
     {
@@ -244,13 +244,23 @@
       "summary": "Scan your target: level, drops with this server's real rates, resistances, aggro and quests."
     },
     {
+      "id": "dwspoils",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-5533194e550d.zip",
+      "sha256": "9c41509f076982c6380856a6845c95a962ef1e6dc7e9c4abf4fecfecfc562f42",
+      "size": 34037,
+      "treeHash": "5533194e550d63a690dd68ca76225ca853fc777669320e5cfdf35a7fefa33097",
+      "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, and the server's four-augment hall."
+    },
+    {
       "id": "dwsquad",
       "kind": "ashita-addon",
-      "version": "1.9.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-27e2fb37a38c.zip",
-      "sha256": "731b3baa1fe4e9ef8f9e1a779f0bad21de369327ae3ef9e45ec96d9cffeb92ff",
-      "size": 84594,
-      "treeHash": "27e2fb37a38cca55f35cdeb6a25710b2d638042ce2497db14fcd35573f9d25f6",
+      "version": "1.9.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwsquad-91092eacb9fb.zip",
+      "sha256": "207a0fec18e56374b84da0e6cec4962319145da2c336a1c971c2069860326365",
+      "size": 84667,
+      "treeHash": "91092eacb9fb7d1b82ce408499243a079e05cd9646513c94cdc42450218cadb1",
       "summary": "Squad roster window for DriftwoodXI -- four tabs over your own characters: Main, States, Stats and Exp."
     },
     {
