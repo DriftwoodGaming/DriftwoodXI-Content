@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.21",
-  "publishedAt": "2026-09-21T16:38:42.383Z",
+  "contentVersion": "2026.09.22",
+  "publishedAt": "2026-09-22T00:07:04.078Z",
   "packages": [
     {
       "id": "dwah",
@@ -56,11 +56,11 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.7.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-8bcdc320cfc2.zip",
-      "sha256": "096970c3bd6e53b58a94872b5764fa9efe1fbb7521aa2c43222d7cf3ede31353",
-      "size": 212209,
-      "treeHash": "8bcdc320cfc29c01b811ea7f72b38393fe21dca921efd7d324c46b669fc1a9b7",
+      "version": "1.7.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-f663bc8393b8.zip",
+      "sha256": "4884218724e48c028ef91c7d96b1783a330526da0627256198d1331865cd678d",
+      "size": 212210,
+      "treeHash": "f663bc8393b83f4a10eea2477afad8a27dd6cf4c0de4db9d1e77f8847afafb1e",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -206,21 +206,21 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.33.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-0c5dbdab5b11.zip",
-      "sha256": "881924f059e64cbbbb43c998b09597ce37366ae7fee1afd98befe3bc60dec951",
-      "size": 127713,
-      "treeHash": "0c5dbdab5b1177a2e2554b3956f85aaad7606f72b6b039478bfa3dcc7ec66578",
+      "version": "1.35.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-556a347acfa8.zip",
+      "sha256": "7b36f309cfdeafeb5bad9cf1c1cdac66f37b19d14c5afe79b05b50d2f15c9718",
+      "size": 130459,
+      "treeHash": "556a347acfa893e337986e4d0c4712983cc0b96f14b56d8d33740a0bb150f416",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, the Special shelf, and the one-time Primer."
     },
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.20.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-0cf478741ecc.zip",
-      "sha256": "691349c80f270acf4f4a01fce5da298ab8ac5b62e76489e912027f2033abb609",
-      "size": 76216,
-      "treeHash": "0cf478741ecc70395592f6366b8758b66685add797f6a951a77203e8a87469d5",
+      "version": "1.21.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-fa2f6dde1fcc.zip",
+      "sha256": "1a6d105c318a3e7c530b640ba87ec4d0c69e830a9cb38e96318f64f51ea876ce",
+      "size": 77482,
+      "treeHash": "fa2f6dde1fcc686c0f40334ee8578d493880301c6b8b940c8fcca7a9a2f92fd7",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
@@ -246,11 +246,11 @@
     {
       "id": "dwspoils",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-5533194e550d.zip",
-      "sha256": "9c41509f076982c6380856a6845c95a962ef1e6dc7e9c4abf4fecfecfc562f42",
-      "size": 34037,
-      "treeHash": "5533194e550d63a690dd68ca76225ca853fc777669320e5cfdf35a7fefa33097",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-2d258a7d87c4.zip",
+      "sha256": "e9997d53040d912ee36a8678c1839aab967fc958a53b69a79668d200773b02ff",
+      "size": 44702,
+      "treeHash": "2d258a7d87c49674fac7a936eab1a9a966572b431d305eaa6973a014d9bc8727",
       "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, and the server's four-augment hall."
     },
     {
@@ -276,11 +276,11 @@
     {
       "id": "dwtracker",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-3197b2b13297.zip",
-      "sha256": "47af77ac429725e1d565f29d4ac7456e3c69d4d4be2d41ec92648ea6a94eb784",
-      "size": 162074,
-      "treeHash": "3197b2b1329728a3fbd7f5dfee7e8c5c1aa8b0660c1fecafcf284d03b247570a",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtracker-941feea15598.zip",
+      "sha256": "cc7de3b1693779bab09c168adeedcdefa0ae7460334a28186d29d3666bf31bf1",
+      "size": 186735,
+      "treeHash": "941feea15598acf19f33b5a644dcd1c8ca1f5894e7e1cb5dc31f0d608d7a2b95",
       "summary": "In-game quest and mission tracker for DriftwoodXI."
     },
     {
