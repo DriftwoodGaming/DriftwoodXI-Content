@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.22",
-  "publishedAt": "2026-09-22T00:07:04.078Z",
+  "publishedAt": "2026-09-22T22:21:45.578Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.8.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-4d9e49d0afa4.zip",
-      "sha256": "88ee03a54c10907f9b5b3a7e282268cfaf66030827b5eb1de8966582e0b249a7",
-      "size": 81206,
-      "treeHash": "4d9e49d0afa42b7856faf92cce71b498adc4ecc13ff0ea052ce0ad97245a4dfd",
+      "version": "1.9.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-e3c968307fd9.zip",
+      "sha256": "220ce18d0b3de172d67e09774286e39c7afee15f97c7d72e60a4ff5f2eac7659",
+      "size": 82482,
+      "treeHash": "e3c968307fd9b8f05d3933f823f1fc17b06575beddc9afb4f78936737c025a8b",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -26,12 +26,22 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.31.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-77e7c0d8f61c.zip",
-      "sha256": "9406b0cec8c7f11bf1b76b5835167a6194c45738786cbef1bedc87d65b6d4565",
-      "size": 115509,
-      "treeHash": "77e7c0d8f61cc634aaba356399b00ed54f782d1f4c2c8c75e78d83481035ea02",
+      "version": "1.32.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-9dcf3c312a05.zip",
+      "sha256": "4fe33f13359e2cbd4138d78d6827b8dc038d3cd0c15978345f968d02c07baca9",
+      "size": 116793,
+      "treeHash": "9dcf3c312a051e08895a40b8f9c2a57569b86f72d52aed20a7e8022ddbb17eea",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
+    },
+    {
+      "id": "dwchat",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwchat-eb618954e2ec.zip",
+      "sha256": "4cdc974aed54d810f8adef4f7f44384bd1180648e85f6febe546ba2790d5fd0a",
+      "size": 18758,
+      "treeHash": "eb618954e2ecebab3e89e664df82e3fcd03d5eabb52a383536868b6a67024b94",
+      "summary": "A cleaner chat log: colour-coded battle lines and combined experience, skill-up and melee spam -- off until you switch it on."
     },
     {
       "id": "dwcon",
@@ -106,11 +116,11 @@
     {
       "id": "dwhub",
       "kind": "ashita-addon",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-4ef44fa1c0dc.zip",
-      "sha256": "ac4f0aa96cd7378b8795f31692dfd325a1faaa0124292a2c5025d05ccae3ae7c",
-      "size": 13957,
-      "treeHash": "4ef44fa1c0dc95dcd4473dfb06ee06b72ddf5fbcbe16bc6b4405de77c1a1dfa3",
+      "version": "1.0.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-3deb10176fd4.zip",
+      "sha256": "8558374fe6fde07c342cfdc8e94157bdb1402189a02adb7b6114e2d208dd1453",
+      "size": 14220,
+      "treeHash": "3deb10176fd405a5f3e89a4cb41f34d3900f07d20b7f1f62859cf568ecb5608f",
       "summary": "The DriftwoodXI front door: every server addon in one window -- what it is for, a button that opens it, and a button that loads it when it is switched off."
     },
     {
@@ -274,6 +284,16 @@
       "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
+      "id": "dwtod",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-f9b7be58a389.zip",
+      "sha256": "ad2b99adb6fac02e8ca420cddb04a7d9889736a25182ae05aedf597db495751f",
+      "size": 64237,
+      "treeHash": "f9b7be58a38981be166d853d9485becd30cf30ebfc541c0ba2a8a71c8f122223",
+      "summary": "DriftwoodXI Time of Death: every timer-pop NM, up or dead, with the server's own respawn clock."
+    },
+    {
       "id": "dwtracker",
       "kind": "ashita-addon",
       "version": "1.2.0",
@@ -296,11 +316,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.16.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-3e1518760902.zip",
-      "sha256": "ec9c5f1bccaeab668511d66a57c76cedc891aa6237514771eb269d125ca85c95",
-      "size": 113507,
-      "treeHash": "3e1518760902e23aa0a3ffa079c7b5c42c8b760763fcf50daf948280ab17b4e0",
+      "version": "1.17.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-7d8c3c75473f.zip",
+      "sha256": "d3d8a48d109d994cd1ae9184ea04ad7928c18842af82a7cbf58057d49ba30547",
+      "size": 114824,
+      "treeHash": "7d8c3c75473f8c0a03402ab015a4e47ca9435e5d8afdfea5717f6b4ed9e489a9",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
