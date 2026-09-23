@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.22",
-  "publishedAt": "2026-09-22T22:21:45.578Z",
+  "contentVersion": "2026.09.23",
+  "publishedAt": "2026-09-23T18:55:26.999Z",
   "packages": [
     {
       "id": "dwah",
@@ -36,21 +36,21 @@
     {
       "id": "dwchat",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwchat-eb618954e2ec.zip",
-      "sha256": "4cdc974aed54d810f8adef4f7f44384bd1180648e85f6febe546ba2790d5fd0a",
-      "size": 18758,
-      "treeHash": "eb618954e2ecebab3e89e664df82e3fcd03d5eabb52a383536868b6a67024b94",
-      "summary": "A cleaner chat log: colour-coded battle lines and combined experience, skill-up and melee spam -- off until you switch it on."
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwchat-ac909f71e289.zip",
+      "sha256": "b69a7abec765f16b196143f58deb2c0a9a14be204d5ac9ddb0a900f0d10e03ab",
+      "size": 33138,
+      "treeHash": "ac909f71e28983edc8225b7dacbc1316d3258fbfec818710d0ed34fa847a224f",
+      "summary": "A cleaner chat log: colour-coded battle lines, spam folded into fewer lines (points, skill-ups, melee, spells, loot), Window 2 routing and filters -- off until you switch it on."
     },
     {
       "id": "dwcon",
       "kind": "ashita-addon",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-77b2f1258a76.zip",
-      "sha256": "d3a314e5b191bea4a74be42857e679a7ca5c285b9e97eeff0f3746b4106f403b",
-      "size": 52532,
-      "treeHash": "77b2f1258a76aeff6e1cb18a4ebd448b50efb3455abedff473030ace15deefa4",
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcon-d9a9688fa4b8.zip",
+      "sha256": "ac2a6a4e879eb41763218eb68897cebae35fd11197f3ff088aee57f3cffb1fd2",
+      "size": 60769,
+      "treeHash": "d9a9688fa4b8461860175fef5674ead856aa6a61516985f588d9046d9a7210a6",
       "summary": "Con pearls: every nearby enemy's /check difficulty and level, at a glance."
     },
     {
@@ -66,11 +66,11 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.7.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-f663bc8393b8.zip",
-      "sha256": "4884218724e48c028ef91c7d96b1783a330526da0627256198d1331865cd678d",
-      "size": 212210,
-      "treeHash": "f663bc8393b83f4a10eea2477afad8a27dd6cf4c0de4db9d1e77f8847afafb1e",
+      "version": "1.7.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-ebf91cbf23cf.zip",
+      "sha256": "6896ee0178dbef3cb249bf2e4e38da06bded8008824410a760d5b444fcc2f049",
+      "size": 212648,
+      "treeHash": "ebf91cbf23cf4d372916dee720d56350553f02b2622bb6043c186110926fc2cb",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -116,11 +116,11 @@
     {
       "id": "dwhub",
       "kind": "ashita-addon",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-3deb10176fd4.zip",
-      "sha256": "8558374fe6fde07c342cfdc8e94157bdb1402189a02adb7b6114e2d208dd1453",
-      "size": 14220,
-      "treeHash": "3deb10176fd405a5f3e89a4cb41f34d3900f07d20b7f1f62859cf568ecb5608f",
+      "version": "1.0.4",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-288061c57f8f.zip",
+      "sha256": "5953539bac753aa5856b8fd79beb32c6939f0bfd5158a1ceb36596545bddd274",
+      "size": 14243,
+      "treeHash": "288061c57f8f8eada2c83a73e7b1896c10c78e13422074852727ace1cf49c5c7",
       "summary": "The DriftwoodXI front door: every server addon in one window -- what it is for, a button that opens it, and a button that loads it when it is switched off."
     },
     {
@@ -216,11 +216,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.35.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-556a347acfa8.zip",
-      "sha256": "7b36f309cfdeafeb5bad9cf1c1cdac66f37b19d14c5afe79b05b50d2f15c9718",
-      "size": 130459,
-      "treeHash": "556a347acfa893e337986e4d0c4712983cc0b96f14b56d8d33740a0bb150f416",
+      "version": "1.36.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-5b16d5c70926.zip",
+      "sha256": "9d52b3d4dee678ee1d380f8929fd9fd12d720131de798b7e944fcf6083f57549",
+      "size": 131136,
+      "treeHash": "5b16d5c70926ef003dc85278432906ce2225875d4d8f94f560debf55c5a29dfa",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, the Special shelf, and the one-time Primer."
     },
     {
@@ -286,11 +286,11 @@
     {
       "id": "dwtod",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-f9b7be58a389.zip",
-      "sha256": "ad2b99adb6fac02e8ca420cddb04a7d9889736a25182ae05aedf597db495751f",
-      "size": 64237,
-      "treeHash": "f9b7be58a38981be166d853d9485becd30cf30ebfc541c0ba2a8a71c8f122223",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-bffb59ef3f58.zip",
+      "sha256": "3d055bb807673c7c481b225a242f67fee51a7441ef448b0ae22ba93aa1b57680",
+      "size": 65654,
+      "treeHash": "bffb59ef3f58691554caaaf6e2c0730835dbb4872ff57532b489108e7d9769f4",
       "summary": "DriftwoodXI Time of Death: every timer-pop NM, up or dead, with the server's own respawn clock."
     },
     {
