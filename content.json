@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.23",
-  "publishedAt": "2026-09-23T18:55:26.999Z",
+  "contentVersion": "2026.09.24",
+  "publishedAt": "2026-09-24T17:15:55.085Z",
   "packages": [
     {
       "id": "dwah",
@@ -66,11 +66,11 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.7.3",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-ebf91cbf23cf.zip",
-      "sha256": "6896ee0178dbef3cb249bf2e4e38da06bded8008824410a760d5b444fcc2f049",
-      "size": 212648,
-      "treeHash": "ebf91cbf23cf4d372916dee720d56350553f02b2622bb6043c186110926fc2cb",
+      "version": "1.7.4",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-3cee4a63a700.zip",
+      "sha256": "4a9901a3ca9c72cab1f8ad900e151999904a00558acb10e8e8c8c620117504f5",
+      "size": 212751,
+      "treeHash": "3cee4a63a7005713c2d0bda3d628f519bc867140c2e544cffb34b695504e25ed",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -82,6 +82,16 @@
       "size": 8420,
       "treeHash": "74c94475c7cba3f7c81f83e0e1bc6390e87d5b257bc6d144185f7a926cd512ce",
       "summary": "Turns you onto the next enemy your party is fighting when your target dies."
+    },
+    {
+      "id": "dwesper",
+      "kind": "ashita-addon",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-3445db1fa89d.zip",
+      "sha256": "3fd710d445014adaa7a0158d8069d47c81a71bbdbef5894fefef236004c2dbfa",
+      "size": 35543,
+      "treeHash": "3445db1fa89db4e2a915f06209e904434ffd37d0a2c10a1a620ea20934c125f5",
+      "summary": "DriftwoodXI Espers: your Magicite, the Espers you can make and have made, and the spells and abilities they lend you."
     },
     {
       "id": "dwfame",
@@ -116,11 +126,11 @@
     {
       "id": "dwhub",
       "kind": "ashita-addon",
-      "version": "1.0.4",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-288061c57f8f.zip",
-      "sha256": "5953539bac753aa5856b8fd79beb32c6939f0bfd5158a1ceb36596545bddd274",
-      "size": 14243,
-      "treeHash": "288061c57f8f8eada2c83a73e7b1896c10c78e13422074852727ace1cf49c5c7",
+      "version": "1.0.5",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-d500ffb1f07d.zip",
+      "sha256": "865b51209efdcf2852e714f73720ee1ac7de816dbec9340483669bba10980d3c",
+      "size": 14386,
+      "treeHash": "d500ffb1f07df7e4c2683bcd217723a6bf7abcdaa553c7c2aba1951bd132ccb9",
       "summary": "The DriftwoodXI front door: every server addon in one window -- what it is for, a button that opens it, and a button that loads it when it is switched off."
     },
     {
