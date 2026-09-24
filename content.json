@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "contentVersion": "2026.09.24",
-  "publishedAt": "2026-09-24T17:15:55.085Z",
+  "publishedAt": "2026-09-24T17:37:29.308Z",
   "packages": [
     {
       "id": "dwah",
@@ -86,11 +86,11 @@
     {
       "id": "dwesper",
       "kind": "ashita-addon",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-3445db1fa89d.zip",
-      "sha256": "3fd710d445014adaa7a0158d8069d47c81a71bbdbef5894fefef236004c2dbfa",
-      "size": 35543,
-      "treeHash": "3445db1fa89db4e2a915f06209e904434ffd37d0a2c10a1a620ea20934c125f5",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-bef7fc4acca9.zip",
+      "sha256": "e5bc60d9cb586fa67547edaea5e3088a6d4b879ccfd0f440f035e3d4519ccb5e",
+      "size": 35545,
+      "treeHash": "bef7fc4acca988118a57cd8132b89946f88dfd8f2ba866ddd255cc903ce4a34d",
       "summary": "DriftwoodXI Espers: your Magicite, the Espers you can make and have made, and the spells and abilities they lend you."
     },
     {
