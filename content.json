@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.26",
-  "publishedAt": "2026-09-26T19:16:41.281Z",
+  "contentVersion": "2026.09.27",
+  "publishedAt": "2026-09-27T17:02:23.832Z",
   "packages": [
     {
       "id": "dwah",
@@ -86,11 +86,11 @@
     {
       "id": "dwesper",
       "kind": "ashita-addon",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-cf9fe6a820e2.zip",
-      "sha256": "4a8dcf800e0c8860d21604d4ae16591b522a01a62afd46751c7e8e5034e51d2f",
-      "size": 40113,
-      "treeHash": "cf9fe6a820e2e5df7c6db56651ecc51b6f999c8566708b9361134f38224a8a7d",
+      "version": "1.2.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-7698784b4dd4.zip",
+      "sha256": "6a76969deab7be1da96b9ae60224e69eb26bb505cd166f0264acca69a1207ec3",
+      "size": 47740,
+      "treeHash": "7698784b4dd4c3a192467e7f778e53837d1cab17d01fc967063f7a7d287e592b",
       "summary": "DriftwoodXI Espers: your Magicite, the Espers you can make and have made, and the spells and abilities they lend you."
     },
     {
@@ -116,11 +116,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.15.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-eef0d16cafcb.zip",
-      "sha256": "4855258e52af94b174e76d0a2090108350acb076514c90c3d33df97af2aa5245",
-      "size": 102137,
-      "treeHash": "eef0d16cafcb947f87b1e148d18d9ab1865d8e5a919899b0d5338fb4e8fbccb3",
+      "version": "1.16.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-b1a7b20bc733.zip",
+      "sha256": "2052e95dca413a978878c52e532b7d3d18495f9372c44da6c4063a084925aa24",
+      "size": 111750,
+      "treeHash": "b1a7b20bc733f84fe26f012492ceff7bcfc749b6a414b7856171670132d899a6",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwnemesis",
       "kind": "ashita-addon",
-      "version": "1.5.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-f12656190b3a.zip",
-      "sha256": "216a7bdd21ffcbe07f57507a2dcaee67d31843393ee834c62252aa189d344187",
-      "size": 65682,
-      "treeHash": "f12656190b3a35481a5e8f793ec20d829425d302f53bbbd9f8d58d9bfc13a3fc",
+      "version": "1.7.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-68d62f5718a3.zip",
+      "sha256": "35195179148d81abebbb95492fde39a7caffe6e87040a3fe8086d988befede41",
+      "size": 72163,
+      "treeHash": "68d62f5718a3de597ff81e71d2121961173b51b157f295b43b5caac8eef0189b",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
@@ -266,11 +266,11 @@
     {
       "id": "dwspoils",
       "kind": "ashita-addon",
-      "version": "1.2.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-b9b0efdae109.zip",
-      "sha256": "007222edc46089eb1658629cfc9382b50286b6df94c7ebb5c672fec5ee903aad",
-      "size": 48018,
-      "treeHash": "b9b0efdae109691e759576b2173357b25f50de704d4743add0587c2dfc27835d",
+      "version": "1.2.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-d96ae41d396d.zip",
+      "sha256": "aa1a400177093bda10cf5ff50f7bc842570ed423394b48d00d729dfcc9d37126",
+      "size": 48334,
+      "treeHash": "d96ae41d396db5b626d7c9d0de4bd317c2bc1fa72a85f77c7d85394b0876c4d8",
       "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, the server's four-augment hall and its Super Auged finds."
     },
     {
