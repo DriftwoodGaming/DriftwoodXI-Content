@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.27",
-  "publishedAt": "2026-09-27T17:02:23.832Z",
+  "contentVersion": "2026.09.28",
+  "publishedAt": "2026-09-28T15:18:58.835Z",
   "packages": [
     {
       "id": "dwah",
@@ -86,11 +86,11 @@
     {
       "id": "dwesper",
       "kind": "ashita-addon",
-      "version": "1.2.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-7698784b4dd4.zip",
-      "sha256": "6a76969deab7be1da96b9ae60224e69eb26bb505cd166f0264acca69a1207ec3",
-      "size": 47740,
-      "treeHash": "7698784b4dd4c3a192467e7f778e53837d1cab17d01fc967063f7a7d287e592b",
+      "version": "1.2.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwesper-1896abfae95c.zip",
+      "sha256": "3ee60f0882d88a13c798083f198c0057b4ec07453eb8136c17b267ec04e78fea",
+      "size": 48154,
+      "treeHash": "1896abfae95ca58e0cbc14f8ba6cb98b568d10e7812bd65e0dae4161e4c92ac8",
       "summary": "DriftwoodXI Espers: your Magicite, the Espers you can make and have made, and the spells and abilities they lend you."
     },
     {
@@ -126,11 +126,11 @@
     {
       "id": "dwhub",
       "kind": "ashita-addon",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-9cdad163276e.zip",
-      "sha256": "c9bf684890b537ed5b1c104c8b8290b01588663d3c5dccb553c5b682d2fc13f2",
-      "size": 24255,
-      "treeHash": "9cdad163276ed495e23c55132a66f86875bfd409a222537aa04017c00e4437fe",
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwhub-21d4ab681b40.zip",
+      "sha256": "16c9a9cbae536ed01753698311bf4b254d057c9c44f5ca3a31d3e9160d17a0d8",
+      "size": 24272,
+      "treeHash": "21d4ab681b40f6cd352c2bf3a75d0a5eeaeae29e682846553b53a69f251bc3e7",
       "summary": "The DriftwoodXI front door: every server addon in one window -- what it is for, a button that opens it, a button that loads it -- and the rail, a slim column of their names in the order you choose."
     },
     {
@@ -266,12 +266,12 @@
     {
       "id": "dwspoils",
       "kind": "ashita-addon",
-      "version": "1.2.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-d96ae41d396d.zip",
-      "sha256": "aa1a400177093bda10cf5ff50f7bc842570ed423394b48d00d729dfcc9d37126",
-      "size": 48334,
-      "treeHash": "d96ae41d396db5b626d7c9d0de4bd317c2bc1fa72a85f77c7d85394b0876c4d8",
-      "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, the server's four-augment hall and its Super Auged finds."
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-93eb20326384.zip",
+      "sha256": "d1af17da8bdbdedc2e69bd16ca1cb22b9eead8334876807ea7c19512cffc8cf2",
+      "size": 78222,
+      "treeHash": "93eb20326384882492e89d0f08c0cd84d8561ec7ad6218debe45cfff3b296725",
+      "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, your Runes, the server's four-augment hall and its Super Auged finds."
     },
     {
       "id": "dwsquad",
