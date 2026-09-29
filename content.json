@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "contentVersion": "2026.09.28",
-  "publishedAt": "2026-09-28T15:18:58.835Z",
+  "contentVersion": "2026.09.29",
+  "publishedAt": "2026-09-29T18:21:58.004Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.9.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-b89113f09551.zip",
-      "sha256": "9bd06604c5919cbe1614da1e65ab04d25173c243f93b61e4d05cb83618feefa9",
-      "size": 84102,
-      "treeHash": "b89113f09551ab90b046cfb7cf513ef9a8b435b90ae513af6bfa33d29550fcce",
+      "version": "1.9.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-c2b8f776bd0c.zip",
+      "sha256": "e63a83e9fa561c36ebad8379f8a1c86753ce8b258466545cdc982ac01dba3462",
+      "size": 84178,
+      "treeHash": "c2b8f776bd0cce9e77a3bacaddadf64052fd49f6d89219a93088b1f457ae15f0",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.32.3",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-124133f3870e.zip",
-      "sha256": "0c40833379a75f6383e8e2a074230041cf7485539b3d07370ea097ae5d99040c",
-      "size": 118323,
-      "treeHash": "124133f3870e9af13568552552480d6031fd709f967f7b97e84c184f4fc32aea",
+      "version": "1.32.4",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-9c6095b028d6.zip",
+      "sha256": "20029d882e03392e43b42f30569d40110da54648f8fa4801adcbc85c2f210712",
+      "size": 118436,
+      "treeHash": "9c6095b028d615727e38302f9088269a75038bbdef78f61c7949659ce792f2c3",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -66,11 +66,11 @@
     {
       "id": "dwcraft",
       "kind": "ashita-addon",
-      "version": "1.7.6",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-a8fe8f39eb8e.zip",
-      "sha256": "9aa7c1b551e638aeb114f759f0505b6913bce364ad347024e9957859fbecda80",
-      "size": 214274,
-      "treeHash": "a8fe8f39eb8e95154512bb7e7751631ce47682e84f3cd68a198a6066ac02a11e",
+      "version": "1.7.7",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwcraft-7d2f607b0edc.zip",
+      "sha256": "3fb6e8786b502c308d672afb066abe856327cbc5fe24b1ccd6c77609aa23962d",
+      "size": 214466,
+      "treeHash": "7d2f607b0edce8f9eb5c41bed83cb016fb10aa6f7d05e85423367392ff70cead",
       "summary": "Crafting ledger for DriftwoodXI -- skills, ranks, the specialization budget, a recipe book that checks bags across your whole account and your DWWarehouse, a skill-up ladder that knows what a point costs, a session tally, and every character on your account craft by craft."
     },
     {
@@ -226,11 +226,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.36.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-d3a20d8cff5f.zip",
-      "sha256": "7e13910dcf75538b597ebd909920e04194b3a5bf6d075d9702c8eff6b60d846b",
-      "size": 132184,
-      "treeHash": "d3a20d8cff5f78e894b989d812356260d03a3706d351b6c875d7558567544c9b",
+      "version": "1.37.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-1fd8ab8ca20e.zip",
+      "sha256": "ddd3f7c9ff26a666b5e63df1d366f1d6f23dbeb9e6ee6b74d308aefa19874b4e",
+      "size": 132730,
+      "treeHash": "1fd8ab8ca20e49b2a7a0c5ea3e7a611ce42d23b2da30e7b2cc6158f3c7803700",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, the Special shelf, and the one-time Primer."
     },
     {
@@ -266,11 +266,11 @@
     {
       "id": "dwspoils",
       "kind": "ashita-addon",
-      "version": "1.3.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-93eb20326384.zip",
-      "sha256": "d1af17da8bdbdedc2e69bd16ca1cb22b9eead8334876807ea7c19512cffc8cf2",
-      "size": 78222,
-      "treeHash": "93eb20326384882492e89d0f08c0cd84d8561ec7ad6218debe45cfff3b296725",
+      "version": "1.3.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-289e5c866593.zip",
+      "sha256": "14ec4a27463593f8fa08b2bdb9da751220c0aef93dc6b23945bc87fc3e0d2cc7",
+      "size": 78306,
+      "treeHash": "289e5c86659327793e95a156fedaa04d329db7fb7b8a1e22a09a14e260346596",
       "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, your Runes, the server's four-augment hall and its Super Auged finds."
     },
     {
@@ -326,11 +326,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.17.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-b1f687878703.zip",
-      "sha256": "4890f2e8f5ea6ff078358b890ca3d515f31c025f9a98d3badbdf2467f5c23068",
-      "size": 115965,
-      "treeHash": "b1f687878703bdc4ea0a5cf51a5685e8456cffe7db9ac3e9e6695fa556f1ba53",
+      "version": "1.17.3",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-03dd46ef2a8d.zip",
+      "sha256": "db15a67676b2fd7a4cc06acad54ea21d2170f9c5601a7e64cae22ebc15827a7b",
+      "size": 116065,
+      "treeHash": "03dd46ef2a8dbe22dd0f56e5af1129e5d3dd4ea8b3647379101ed41ffe67e2cf",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
