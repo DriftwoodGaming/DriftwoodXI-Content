@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.01",
-  "publishedAt": "2026-10-01T07:14:55.364Z",
+  "contentVersion": "2026.10.03",
+  "publishedAt": "2026-10-03T01:59:29.143Z",
   "packages": [
     {
       "id": "dwah",
@@ -26,11 +26,11 @@
     {
       "id": "dwbags",
       "kind": "ashita-addon",
-      "version": "1.33.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-6ae369050c40.zip",
-      "sha256": "eeb9d74fbc300aa014c225da0e092f43d52d47d3b4d91e1be19c711b5c6039f9",
-      "size": 118563,
-      "treeHash": "6ae369050c40b71e6bdd34b906b90c3c09e2d019dcf3162b1b88964b262ce773",
+      "version": "1.33.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwbags-505ade19139d.zip",
+      "sha256": "8cad40b8ce3b76326c0d114f394ebba0664dd7283253b0bf1026ca29c6a94204",
+      "size": 119384,
+      "treeHash": "505ade19139dddefa9406ab43c661dbf75a53f7c4ce70b08ae83555acf0a9a40",
       "summary": "Account-wide bag browser, item transfer and squad gearing for DriftwoodXI."
     },
     {
@@ -236,21 +236,21 @@
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.21.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-05cfb57e4625.zip",
-      "sha256": "2cc4cbfe815523061627a485b32abc6589cbfe2bc3d0448d2d53f820fc3dda0b",
-      "size": 78783,
-      "treeHash": "05cfb57e46251dd5770e1299a23ad6305930a1c21019c470251a6580e3c9e9e2",
+      "version": "1.22.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-0bbf7cd97d2e.zip",
+      "sha256": "cece844bffda143db9fa05839e16d063c2098407c8b68f81cbc4c2704d8db122",
+      "size": 79513,
+      "treeHash": "0bbf7cd97d2e8d601d4021a68788842db9bb7f7a4a0929d7fcac16433d1c7fec",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
       "id": "dwreport",
       "kind": "ashita-addon",
-      "version": "1.1.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwreport-c9254e499706.zip",
-      "sha256": "95f6c1c2ebd960cc19a0a083e1094e5b08b0344186c25111736156d375a39a6d",
-      "size": 60867,
-      "treeHash": "c9254e49970619bf28817adbfb539e49a11e15780d46e09e246ea26ff55b636e",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwreport-230cbcfc83ee.zip",
+      "sha256": "1601c175758ed68dd4241d216e366be48470438ea8f397d9a8a5f59a859b8cda",
+      "size": 61836,
+      "treeHash": "230cbcfc83ee65848084b98ea58fa5331b52c0c471bfb8a0f1d30caa80901309",
       "summary": "In-game bug reporting with your real game state attached."
     },
     {
