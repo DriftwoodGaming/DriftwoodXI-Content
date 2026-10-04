@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.03",
-  "publishedAt": "2026-10-03T01:59:29.143Z",
+  "contentVersion": "2026.10.04",
+  "publishedAt": "2026-10-04T18:03:47.994Z",
   "packages": [
     {
       "id": "dwah",
@@ -36,11 +36,11 @@
     {
       "id": "dwchat",
       "kind": "ashita-addon",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwchat-4e84174a5bed.zip",
-      "sha256": "85518234a49eb08b1429d5390260b8291574778ff92edafb30b819ab07f7da58",
-      "size": 33507,
-      "treeHash": "4e84174a5bed9af0694f799a49d3942c5a67e134228ab63d7a21e0c50f40920a",
+      "version": "1.1.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwchat-a63964a6500a.zip",
+      "sha256": "8c7f6dfb45743d7a3701cad3dd635ed16597e860bcb3c1609509aa43c65a0731",
+      "size": 33625,
+      "treeHash": "a63964a6500a363096a7d6ae13a7a3431e3277802c505d2e5eb2025fe857ae1d",
       "summary": "A cleaner chat log: colour-coded battle lines, spam folded into fewer lines (points, skill-ups, melee, spells, loot), Window 2 routing and filters -- off until you switch it on."
     },
     {
@@ -226,11 +226,11 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.39.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-dc1698c38b48.zip",
-      "sha256": "7b82fd7525c629e06d9286fda6b68353e7f6f9cfd587f2c0a8e2dd2544f1c282",
-      "size": 133213,
-      "treeHash": "dc1698c38b48cc3582d35c17d0ad4253b5bf4e74c82506037bdcdc0337d5a8fb",
+      "version": "1.39.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-4ac174621ec2.zip",
+      "sha256": "baba95f44594cf3af26c7a2c6a407f9063b8a1457f948c9dc8c31d997fa0f27a",
+      "size": 133815,
+      "treeHash": "4ac174621ec2ea97c85312ff27b64305818ebd24d312eb35ec5052433b88cbee",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, the Special shelf, and the one-time Primer."
     },
     {
