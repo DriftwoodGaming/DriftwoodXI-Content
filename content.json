@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.04",
-  "publishedAt": "2026-10-04T18:03:47.994Z",
+  "contentVersion": "2026.10.05",
+  "publishedAt": "2026-10-05T23:38:52.074Z",
   "packages": [
     {
       "id": "dwah",
@@ -286,11 +286,11 @@
     {
       "id": "dwtoau",
       "kind": "ashita-addon",
-      "version": "1.3.4",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-ed4e62881fcf.zip",
-      "sha256": "b3e3d322c753857bdd446cad301e7456f52b4ec43d7a9c533e1f342dcb24617f",
-      "size": 71458,
-      "treeHash": "ed4e62881fcfeae780b9c3856ac9512c2dde71a887c7b740e225a736c8425b7d",
+      "version": "1.3.5",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-5e2fcb87ec7e.zip",
+      "sha256": "f064a7b219ca7b79e2923a4225994b7a0691492dd0d61c9fb432a3d17c4a3373",
+      "size": 71481,
+      "treeHash": "5e2fcb87ec7e9fdf813ffcee9ecd9f6f89067ba0e214ff04ba16f767875d23c3",
       "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
