@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.05",
-  "publishedAt": "2026-10-05T23:38:52.074Z",
+  "contentVersion": "2026.10.06",
+  "publishedAt": "2026-10-06T04:03:01.476Z",
   "packages": [
     {
       "id": "dwah",
@@ -226,21 +226,21 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.39.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-4ac174621ec2.zip",
-      "sha256": "baba95f44594cf3af26c7a2c6a407f9063b8a1457f948c9dc8c31d997fa0f27a",
-      "size": 133815,
-      "treeHash": "4ac174621ec2ea97c85312ff27b64305818ebd24d312eb35ec5052433b88cbee",
+      "version": "1.40.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-082e7fa08c53.zip",
+      "sha256": "cdded663786004bad0f088706f27f9f3401fa99862154cd25febfe4f666e40a0",
+      "size": 134035,
+      "treeHash": "082e7fa08c5353b7b41a8400b2488393eb7bb44f42b6f82d7c803127e8ce5e10",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, the Special shelf, and the one-time Primer."
     },
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.22.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-0bbf7cd97d2e.zip",
-      "sha256": "cece844bffda143db9fa05839e16d063c2098407c8b68f81cbc4c2704d8db122",
-      "size": 79513,
-      "treeHash": "0bbf7cd97d2e8d601d4021a68788842db9bb7f7a4a0929d7fcac16433d1c7fec",
+      "version": "1.23.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-2d7a2bfa00d3.zip",
+      "sha256": "b1ece4cad8eeeb8c2296681b0a24105f5a3c2a5fdf2954ef1780c7d0740057c1",
+      "size": 79774,
+      "treeHash": "2d7a2bfa00d337609d3e81b2db14cb81cd66d477394088042eb0ceda8173305a",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
