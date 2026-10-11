@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.09",
-  "publishedAt": "2026-10-09T19:25:24.239Z",
+  "contentVersion": "2026.10.11",
+  "publishedAt": "2026-10-11T19:25:07.851Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.10.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-089fd1620567.zip",
-      "sha256": "d1dbc77cc20cb4723e821eb42d707e2edce880fe4c850cf22dd6a0bad6c0a764",
-      "size": 84276,
-      "treeHash": "089fd16205670eaea1b531f055803a05f8b434faa21cc990d39637c0294eedce",
+      "version": "1.10.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-db48e1008577.zip",
+      "sha256": "3fc7fd91fe1a7dd62334d0c43a6881bfd07fa66101eb1e06064b93abe16eb995",
+      "size": 87288,
+      "treeHash": "db48e10085770f7e5934203ee8b6b70ac700e44644e4c910e9c816d34e2c5902",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -216,11 +216,11 @@
     {
       "id": "dwport",
       "kind": "ashita-addon",
-      "version": "1.7.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-e7921c4003c2.zip",
-      "sha256": "6023896d1eb88e3ad72c9c927cd64373e14e24828f5a1cb153f4a1bfa61818b4",
-      "size": 65903,
-      "treeHash": "e7921c4003c2f7a92cd2d81b434aff69eb843f077796dcc07decc03accddfe7c",
+      "version": "1.7.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwport-21f7350a6509.zip",
+      "sha256": "4b6755d3efb91d04a7328e447af91833a27fff2f0fe1ead2560b17832a695b69",
+      "size": 65902,
+      "treeHash": "21f7350a650986df733e4cd0ea40bc26fd63c7f969fc5356cc115cf307cc1367",
       "summary": "Travel window for DriftwoodXI -- every teleport you have unlocked, one click away."
     },
     {
