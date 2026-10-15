@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.13",
-  "publishedAt": "2026-10-13T00:35:04.662Z",
+  "contentVersion": "2026.10.15",
+  "publishedAt": "2026-10-15T18:07:43.550Z",
   "packages": [
     {
       "id": "dwah",
@@ -188,7 +188,7 @@
       "kind": "ashita-addon",
       "version": "1.7.0",
       "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-68d62f5718a3.zip",
-      "sha256": "35195179148d81abebbb95492fde39a7caffe6e87040a3fe8086d988befede41",
+      "sha256": "2f801174043645996cc7af3b5d38f4c7479c36988b544ee539ea2c7ae2a8c2a4",
       "size": 72163,
       "treeHash": "68d62f5718a3de597ff81e71d2121961173b51b157f295b43b5caac8eef0189b",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
@@ -326,11 +326,11 @@
     {
       "id": "dwwarehouse",
       "kind": "ashita-addon",
-      "version": "1.18.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-bad3b1bad6fd.zip",
-      "sha256": "f1abb27e6d4a98865096350e738c2ec115eef632fdac3da21bce5b28c594d63c",
-      "size": 116165,
-      "treeHash": "bad3b1bad6fd6329043b022d451431ae07e569ca4ebcdd12e8908c30f9770c08",
+      "version": "1.19.1",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwwarehouse-f27c30930e8c.zip",
+      "sha256": "2b288954db031da5860326bc42d5de3ee9aef6e9714f7f1e28379eaae3837633",
+      "size": 116734,
+      "treeHash": "f27c30930e8c907703fe6fc63c3f624cad839977459b5f7f9990ecdb72a4ca9d",
       "summary": "Account-wide virtual storage for DriftwoodXI."
     }
   ]
