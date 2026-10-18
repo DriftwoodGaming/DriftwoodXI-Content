@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.15",
-  "publishedAt": "2026-10-15T18:07:43.550Z",
+  "contentVersion": "2026.10.18",
+  "publishedAt": "2026-10-18T18:09:15.527Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.10.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-db48e1008577.zip",
-      "sha256": "3fc7fd91fe1a7dd62334d0c43a6881bfd07fa66101eb1e06064b93abe16eb995",
-      "size": 87288,
-      "treeHash": "db48e10085770f7e5934203ee8b6b70ac700e44644e4c910e9c816d34e2c5902",
+      "version": "1.11.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-0f750c699a37.zip",
+      "sha256": "bbb2470c0e84a829cdf70a4ae1b81174d7b8b86533c4bf6002e99e03b6015acb",
+      "size": 89635,
+      "treeHash": "0f750c699a37d2e2c7dc5e71092eebb04857e1a924a4543b87a2e1579abb87e9",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -266,12 +266,12 @@
     {
       "id": "dwspoils",
       "kind": "ashita-addon",
-      "version": "1.4.0",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-085bdfc00e2a.zip",
-      "sha256": "00bf2dacfe01aed8fb36f10747419b140b408bf5056b5760add6640262c0c83e",
-      "size": 78543,
-      "treeHash": "085bdfc00e2a51479e738411fdfb2d03893a406739a781675d67edec728470a1",
-      "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, your Runes, the server's four-augment hall and its Super Auged finds."
+      "version": "1.5.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwspoils-598a7ee8d103.zip",
+      "sha256": "b8874002e197e906189ac9580c62c028a4c5e73a54d47975437455dcd2ea12cf",
+      "size": 87263,
+      "treeHash": "598a7ee8d103d90220d7b0192a0c2a0fda34ee4091ef20749062abd9a9b815d2",
+      "summary": "DriftwoodXI Spoils: the augmented gear ordinary kills have handed your account, your Runes, disenchanting gear into Runes, the server's four-augment hall and its Super Auged finds."
     },
     {
       "id": "dwsquad",
