@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.20",
-  "publishedAt": "2026-10-20T20:52:18.312Z",
+  "contentVersion": "2026.10.24",
+  "publishedAt": "2026-10-24T17:00:01.349Z",
   "packages": [
     {
       "id": "dwah",
@@ -116,11 +116,11 @@
     {
       "id": "dwgambits",
       "kind": "ashita-addon",
-      "version": "1.16.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-3e11ba28b6f5.zip",
-      "sha256": "c8678c3c6b3bbf00aea081f19975571cb03e4e993d5901250aa7247f390a8885",
-      "size": 112731,
-      "treeHash": "3e11ba28b6f5e4682b18f0b6783a7be3c559673e26f32f284f8069fb26d64e04",
+      "version": "1.17.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwgambits-1fb5cfb4f9fb.zip",
+      "sha256": "90a0192fefd70553c3fe71b1b745a3b5d411e046314b15e3912f8b7eff215662",
+      "size": 114405,
+      "treeHash": "1fb5cfb4f9fb095c65b9c6353562e21a243be5d931a5b51c5d531f8d4f2d1589",
       "summary": "Visual gambit rule editor for the DriftwoodXI squad system."
     },
     {
@@ -186,11 +186,11 @@
     {
       "id": "dwnemesis",
       "kind": "ashita-addon",
-      "version": "1.7.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-82cf4cc278d2.zip",
-      "sha256": "99eac819a5912fb0b0fa0ad07f5f19d932351d777121275d26c77ed1d95359fb",
-      "size": 73121,
-      "treeHash": "82cf4cc278d2581cc9d674e062d6d431803a543e0da5d6c24fa29224dcdb1c78",
+      "version": "1.8.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwnemesis-0ac17e18377f.zip",
+      "sha256": "835669644d2dd00242cfc2867ee420207650ea0a738bba31a20d4cf0f008e004",
+      "size": 74578,
+      "treeHash": "0ac17e18377f012709bac24a2b7ad36824e990699b6b12d0f9a38c86330edd24",
       "summary": "DriftwoodXI Nemesis: famous NMs at +100 in a private arena, personal chest, augmented drops."
     },
     {
@@ -226,21 +226,21 @@
     {
       "id": "dwquest",
       "kind": "ashita-addon",
-      "version": "1.40.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-fb6d4583e365.zip",
-      "sha256": "85d9afb75b576569f26e469232fd93f37a6ec93c20b0d1b8184fac565d72516a",
-      "size": 134992,
-      "treeHash": "fb6d4583e3656b314d10741d762afd0fe375f54faa8c04e08702ef4b5a47cc09",
+      "version": "1.41.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwquest-7ed521e0a2a6.zip",
+      "sha256": "2271f392b2f2ee783c37fbcf24b4eea14138c403a9e793ad9702e2ae0655a8ba",
+      "size": 135194,
+      "treeHash": "7ed521e0a2a6608927c0d22186dc503f982d218df8617cd06e19ecedd1044bfd",
       "summary": "The Drift Board for DriftwoodXI -- daily, weekly and server-wide contracts, live progress, Drift Coins, the coin ledger, the Accepted tab, the augment Enchanter with a full augment reference, the Outfitter, the ArmsDealer, the Pop-Items shelf, the Jeweler, the Special shelf, and the one-time Primer."
     },
     {
       "id": "dwraid",
       "kind": "ashita-addon",
-      "version": "1.24.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-2e000b96f7e8.zip",
-      "sha256": "7fbf86adc01dc12b1a6b39085ae8164b9653fdc85e1c7fe5e32902cfe2a36988",
-      "size": 80987,
-      "treeHash": "2e000b96f7e82a835c1c070b114de1699ef714e451c7ac9369aa828f6015bec2",
+      "version": "1.25.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwraid-11bf310ba137.zip",
+      "sha256": "905625f7837370fc7eca3703e3d49cfa66fb34b6d2abbdfbe40a7832b59cd6d8",
+      "size": 81252,
+      "treeHash": "11bf310ba137ee663760aa8fd96f673bc343153f43d98f61836e36ff6b52b9c4",
       "summary": "Raid board for DriftwoodXI: the trials, the tiers, your driftmarks."
     },
     {
@@ -296,11 +296,11 @@
     {
       "id": "dwtod",
       "kind": "ashita-addon",
-      "version": "1.0.5",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-df9e908fc17a.zip",
-      "sha256": "e3584811641a53d7500c7f6c5a2514639a14d3bb93c151a777869195976018f2",
-      "size": 68095,
-      "treeHash": "df9e908fc17ab6d51bb671d37b8b348910df7d8a84cab29ca834515e20dafb1e",
+      "version": "1.0.6",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-ae687368b105.zip",
+      "sha256": "c7b35b0a3281f74932bbaebee644b2fbdfe10af26b17c12f5f24742605ab6f22",
+      "size": 68193,
+      "treeHash": "ae687368b105a2cbe695b2cf30deed56dbe7859e63347cb22ea56c5d1d551872",
       "summary": "DriftwoodXI Time of Death: every timer-pop NM, up or dead, with the server's own respawn clock."
     },
     {
