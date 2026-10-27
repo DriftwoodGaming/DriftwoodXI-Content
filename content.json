@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.24",
-  "publishedAt": "2026-10-24T17:00:01.349Z",
+  "contentVersion": "2026.10.27",
+  "publishedAt": "2026-10-27T20:46:14.359Z",
   "packages": [
     {
       "id": "dwah",
@@ -316,11 +316,11 @@
     {
       "id": "dwunleashed",
       "kind": "ashita-addon",
-      "version": "1.1.2",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwunleashed-c40a58d47fb2.zip",
-      "sha256": "620a7944429eec0f16a98e635d769ce94ffac3fbaa48f300e7654496a8c176e4",
-      "size": 33461,
-      "treeHash": "c40a58d47fb2aef03a1b7bb581d912e93530ad2ad795b4b2f2cd8401a4a86182",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwunleashed-56c7a87b3d13.zip",
+      "sha256": "431707261a752580a5eb58c0a11d88a37899441b0344414143bf8221662290b3",
+      "size": 33739,
+      "treeHash": "56c7a87b3d13e857c73731a7aad4ad80adf817feee7ff162af4ad8dc05c1dccd",
       "summary": "DriftwoodXI Unleashed: the wandering world boss -- where it stands, how long until it wakes, and who answered the last five."
     },
     {
