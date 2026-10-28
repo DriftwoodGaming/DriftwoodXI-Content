@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.27",
-  "publishedAt": "2026-10-27T20:46:14.359Z",
+  "contentVersion": "2026.10.28",
+  "publishedAt": "2026-10-28T22:07:54.022Z",
   "packages": [
     {
       "id": "dwah",
@@ -296,11 +296,11 @@
     {
       "id": "dwtod",
       "kind": "ashita-addon",
-      "version": "1.0.6",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-ae687368b105.zip",
-      "sha256": "c7b35b0a3281f74932bbaebee644b2fbdfe10af26b17c12f5f24742605ab6f22",
-      "size": 68193,
-      "treeHash": "ae687368b105a2cbe695b2cf30deed56dbe7859e63347cb22ea56c5d1d551872",
+      "version": "1.0.7",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtod-b19ae3076a3d.zip",
+      "sha256": "77a9cf4d1af4c5b4a21a3f9e6a1b25768d82b6c5768ec55d4d7b744e24139ab5",
+      "size": 68318,
+      "treeHash": "b19ae3076a3db31560bfe0bc8790dd7a63ce7431347feafab79ea0545b809cfb",
       "summary": "DriftwoodXI Time of Death: every timer-pop NM, up or dead, with the server's own respawn clock."
     },
     {
