@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "contentVersion": "2026.10.28",
-  "publishedAt": "2026-10-28T22:07:54.022Z",
+  "contentVersion": "2026.10.29",
+  "publishedAt": "2026-10-29T21:30:11.880Z",
   "packages": [
     {
       "id": "dwah",
       "kind": "ashita-addon",
-      "version": "1.11.1",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-853d00a9f5db.zip",
-      "sha256": "c8db210a8f127ea2ce312e09effca85fa69923cfb4f1a413263f51082919af40",
-      "size": 90607,
-      "treeHash": "853d00a9f5dbe3a2609935ef488e28fb1216660cfeeb2cfad9f3b286ca3ed03a",
+      "version": "1.11.2",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwah-48d7e34e1102.zip",
+      "sha256": "34decde94efa5e41369327d2e23547fbe51a82021970a3edf187045976b55532",
+      "size": 91022,
+      "treeHash": "48d7e34e110245b73433666a9a078a944024bb69ecea0dbefce7c1d1c7095ff7",
       "summary": "The Driftwood player market for DriftwoodXI."
     },
     {
@@ -286,11 +286,11 @@
     {
       "id": "dwtoau",
       "kind": "ashita-addon",
-      "version": "1.3.6",
-      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-3dcf3f43e5b2.zip",
-      "sha256": "9fc56ac2cca8a92c84e694b3cc985b11ea87074675290300dbf583624b195f39",
-      "size": 72488,
-      "treeHash": "3dcf3f43e5b2408c3627d9f77d93b7af6cf239a5783c6d8988d7feee090f76dd",
+      "version": "1.3.7",
+      "url": "https://raw.githubusercontent.com/DriftwoodGaming/DriftwoodXI-Content/main/packages/dwtoau-23b5798b7876.zip",
+      "sha256": "8a9b2d383b94f3f599b5038897df59d34fd7607fa038b1000eb04d37f0ff3a1f",
+      "size": 72717,
+      "treeHash": "23b5798b7876618bc74cb280d6eab34acdd4b45678f9553e08a09846c4973fef",
       "summary": "ToAU job kit for DriftwoodXI squads: set a blue mage's spells, build a puppetmaster's automaton, press a corsair's rolls."
     },
     {
